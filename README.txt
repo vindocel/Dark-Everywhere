@@ -1,4 +1,4 @@
-version 1.0 | 10/09/22
+version 1.1 | 06/11/22
 cc distribute, copy, take or edit with credits.
 created by VindoCel#3491
 
@@ -8,3 +8,4 @@ https://www.curseforge.com/minecraft/mc-mods/dark-mode-everywhere
 List of supported Mods:
 Applied Energistics 2
 create
+Applied Energistics 2 Wireless Terminals
