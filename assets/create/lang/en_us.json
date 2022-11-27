@@ -1,0 +1,35 @@
+{
+    "itemGroup.create.base": "\u00a77Create",
+    "itemGroup.create.palettes": "\u00a77Create Palettes",
+    
+    "item.create.handheld_worldshaper": "§dHandheld Worldshaper",
+    "item.create.linked_controller": "§fLinked Controller",
+    "item.create.wand_of_symmetry": "§eWand of Symmetry",
+    "create.gui.terrainzapper.placement": "\u00a77Placement",
+    "create.gui.terrainzapper.tool": "\u00a77Tool",
+    
+    "create.recipe.crushing": "\u00a77Crushing",
+    "create.recipe.milling": "\u00a77Milling",
+    "create.recipe.fan_washing": "\u00a77Bulk Washing",
+    "create.recipe.fan_smoking": "\u00a77Bulk Smoking",
+    "create.recipe.fan_blasting": "\u00a77Bulk Blasting",
+    "create.recipe.pressing": "\u00a77Pressing",
+    "create.recipe.mixing": "\u00a77Mixing",
+    "create.recipe.deploying": "\u00a77Deploying",
+    "create.recipe.automatic_shapeless": "\u00a77Automated Shapeless Crafting",
+    "create.recipe.automatic_brewing": "\u00a77Automated Brewing",
+    "create.recipe.packing": "\u00a77Compacting",
+    "create.recipe.automatic_packing": "\u00a77Automated Packing",
+    "create.recipe.sawing": "\u00a77Sawing",
+    "create.recipe.mechanical_crafting": "\u00a77Mechanical Crafting",
+    "create.recipe.automatic_shaped": "\u00a77Automated Shaped Crafting",
+    "create.recipe.block_cutting": "\u00a77Block Cutting",
+    "create.recipe.wood_cutting": "\u00a77Wood Cutting",
+    "create.recipe.sandpaper_polishing": "\u00a77Sandpaper Polishing",
+    "create.recipe.mystery_conversion": "\u00a77Mysterious Conversion",
+    "create.recipe.spout_filling": "\u00a77Filling by Spout",
+    "create.recipe.draining": "\u00a77Item Draining",
+    "create.recipe.sequenced_assembly": "\u00a77Sequenced Assembly",
+    
+    "create.recipe.heat_requirement.none": "\u00a77No Heating Required"
+}
