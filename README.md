@@ -73,8 +73,12 @@
 <a title="Trinkets" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/trinkets">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/204275721-7715bc3b-c0f7-4fef-a160-62d94e7e12a8.png">
 </div>
+<a title="Mekanism" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/mekanism">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/204336134-61b418b9-8896-4998-8f35-4eee7d545b35.png">
+</div>
 
 </p>
 </details>
+
 
 
