@@ -22,3 +22,4 @@ refinedstorageaddons
 roughlyenoughitems
 storagedrawers
 trinkets
+mekanism
