@@ -1,5 +1,7 @@
 # Dark-Everywhere
-compatible mods
+
+<details>
+<summary>:eyes: compatible mods</summary>
 
 <p align="center">
     <a title="Apotheosis" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/apotheosis">
@@ -73,6 +75,6 @@ compatible mods
 </div>
 
 </p>
-
+</details>
 
 
