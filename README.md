@@ -88,6 +88,24 @@
  <a title="Re-chiseled" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/rechiseled">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205071619-a82c746b-9ec2-4b98-b38d-0531376e889a.png">
 </div>
+ <a title="Cooking for Blockheads" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205126668-9b613b01-ffc2-4456-9ae2-978a7f2a924e.png">
+</div>
+ <a title="Extreme sound muffler" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205127027-33dfde47-bf8b-45dd-9f29-d9d07f023d2c.png">
+</div>
+ <a title="Industrial Foregoing" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205127274-1b647da6-1358-4859-b84f-0e2bf31d9ca3.png">
+</div>
+ <a title="ME Requester" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/merequester">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205127441-1616fe3d-ab82-4574-a537-a93c5b45750e.png">
+</div>
+ <a title="Sophisticated Backpacks" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205127593-e923b13a-c281-49e6-9408-54a84ca100e9.png">
+</div>
+ <a title="TrashSlot" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/trashslot">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205127768-27fea95b-3726-48b4-80ed-95d3175990e4.png">
+</div>
 </p>
 </details>
 
