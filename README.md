@@ -76,7 +76,18 @@
 <a title="Mekanism" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/mekanism">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/204336134-61b418b9-8896-4998-8f35-4eee7d545b35.png">
 </div>
-
+<a title="Applied Energistics 2" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205071608-0b2f5f09-085b-4306-bb04-17f3cbd5ea88.gif">
+</div>
+ <a title="Applied Energistics 2 Wireless Terminals" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205071612-dc9a6f48-7a00-4a6f-ba67-eb80faf4e47b.png">
+</div>
+ <a title="AE2-Additions" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/ae2-additions">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205071614-843e27ed-51d2-4f6b-9c6a-28dcb9b95b20.png">
+</div>
+ <a title="Re-chiseled" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/rechiseled">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205071619-a82c746b-9ec2-4b98-b38d-0531376e889a.png">
+</div>
 </p>
 </details>
 
