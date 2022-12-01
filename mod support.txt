@@ -9,6 +9,8 @@ create
 curios
 cyclic
 cyclopscore
+Cooking for Blockheads
+Extreme sound muffler
 farmersdelight
 fluxnetworks
 hostilenetworks
@@ -19,11 +21,21 @@ integratednbt
 integratedterminals
 integratedtunnels
 ironchest
+Industrial Foregoing
 jei
+mekanism
+ME Requester
 Re-chiseled
 refinedstorage
 refinedstorageaddons
 roughlyenoughitems
 storagedrawers
+Sophisticated Backpacks
 trinkets
-mekanism
+TrashSlot
+
+
+
+
+
+
