@@ -1,4 +1,7 @@
 apotheosis
+Applied Energistics 2
+Applied Energistics 2 Wireless Terminals
+AE2-Additions
 botanypots
 botanypotstiers
 cloth-config2
@@ -17,6 +20,7 @@ integratedterminals
 integratedtunnels
 ironchest
 jei
+Re-chiseled
 refinedstorage
 refinedstorageaddons
 roughlyenoughitems

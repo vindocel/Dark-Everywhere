@@ -212,5 +212,6 @@
     "container.uncrafting_table": "\u00a77Bancada de desmontagem",
 
     "itemGroup.artifacts": "\u00a77Artifacts",
+    "constants.mekanism.mod_name":"\u00a77Mekanismo",
     "itemGroup.minecolonies": "\u00a77MineColonies"
 }
