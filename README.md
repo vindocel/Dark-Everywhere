@@ -116,7 +116,7 @@
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205292575-d19beca8-b806-4310-9b40-fea72df89867.png">
 </div>
  <a title="Bigger Reactors" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/biggerreactors/files/3964114">
-        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205351657-d076f9df-e679-4d2a-acc9-d68ac076cca3.png">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205351668-dca2214d-4bf1-49e4-8e06-926f2c5456b5.png">
 </div>
  <a title="Mystical Agriculture" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205351663-736882f0-3235-4077-9850-d72483d7c92a.png">
@@ -128,7 +128,7 @@
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205351667-f5118f00-ce92-40e5-995c-5ceadd8b9f1c.png">
 </div>
  <a title="The Twilight Forest" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest">
-        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205351668-dca2214d-4bf1-49e4-8e06-926f2c5456b5.png">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205351657-d076f9df-e679-4d2a-acc9-d68ac076cca3.png">
 </div>
 </p>
 </details>
