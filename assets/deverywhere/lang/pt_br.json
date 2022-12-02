@@ -208,10 +208,32 @@
 
     "itemGroup.computercraft": "\u00a77ComputerCraft",
 
+    "_commentQuark": "Quark",
+    "quark.gui.color.crate_count": "#AAAAAA",
+    "quark.gui.color.matrix_enchanting": "#AAAAAA",
+
+    "_commentSM": "Simple Magnets",
+    "itemGroup.simplemagnets": "\u00a77Simple Magnets",
+    "item.simplemagnets.basicmagnet": "\u00a77Íma",
+    "item.simplemagnets.advancedmagnet": "\u00a77Ímã Avançado",
+    "block.simplemagnets.basic_demagnetization_coil": "\u00a77Bobina de Desmagnetização",
+    "block.simplemagnets.advanced_demagnetization_coil": "\u00a77Bobina Avançada de Desmagnetizaçã ",
+  
+    "gui.advancedmagnet.title": "\u00a77Ímã Avançado",
+    "gui.advancedmagnet.items": "\u00a77Itens",
+    "gui.advancedmagnet.xp": "\u00a77Experiência",
+    "gui.advancedmagnet.filter": "\u00a77Filtro de Item",
+  
+    "gui.advancedmagnet.items.range": "\u00a77Alcance ($number$x$number$x$number$ Blocos)",
+    "gui.advancedmagnet.xp.range": "\u00a77Alcance ($number$x$number$x$number$ Blocos)",
+    "gui.simplemagnets.demagnetization_coil.range": "\u00a77Alcance ($number$x$number$x$number$ Blocos)",
+   
+
     "itemGroup.twilightforest": "\u00a77Twilight Forest",
     "container.uncrafting_table": "\u00a77Bancada de desmontagem",
 
     "itemGroup.artifacts": "\u00a77Artifacts",
     "constants.mekanism.mod_name":"\u00a77Mekanismo",
+    "itemGroup.waystones.waystones": "\u00a77Waystones",
     "itemGroup.minecolonies": "\u00a77MineColonies"
 }

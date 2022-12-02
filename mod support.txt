@@ -10,6 +10,7 @@ curios
 cyclic
 cyclopscore
 Cooking for Blockheads
+Compact Machines
 Extreme sound muffler
 farmersdelight
 fluxnetworks
@@ -23,7 +24,10 @@ integratedtunnels
 ironchest
 Industrial Foregoing
 jei
+Quark
 mekanism
+Mystical Agriculture
+Productive Bees
 ME Requester
 Re-chiseled
 refinedstorage
@@ -31,8 +35,11 @@ refinedstorageaddons
 roughlyenoughitems
 storagedrawers
 Sophisticated Backpacks
+Solar Flux Reborn
+Simple Magnets
 trinkets
 TrashSlot
+The Twilight Forest
 
 
 
