@@ -1,0 +1,42 @@
+{
+    "itemGroup.create.base": "\u00a77Create",
+    "itemGroup.create.palettes": "\u00a77Paletes Create",
+    
+    "item.create.handheld_worldshaper": "§dTerraformador de Mundo Criativo",
+    "item.create.linked_controller": "§fControle conectado",
+    "item.create.wand_of_symmetry": "§eVarinha de Simetria",
+    
+    "create.recipe.crushing": "\u00a77Triturando",
+    "create.recipe.milling": "\u00a77Moendo",
+    "create.recipe.fan_washing": "\u00a77Lavagem em massa",
+    "create.recipe.fan_washing.fan": "\u00a77Ventilador atrás de água",
+    "create.recipe.fan_smoking": "\u00a77Defumação em massa",
+    "create.recipe.fan_smoking.fan": "\u00a77Ventilador atrás do fogo",
+    "create.recipe.fan_haunting": "\u00a77Assombração em massa",
+    "create.recipe.fan_haunting.fan": "\u00a77Ventilador atrás do fogo das almas ",
+    "create.recipe.fan_blasting": "\u00a77Fundição em massa",
+    "create.recipe.fan_blasting.fan": "\u00a77ventilador atrás de lava",
+    "create.recipe.pressing": "\u00a77Prensando",
+    "create.recipe.mixing": "\u00a77Misturando",
+    "create.recipe.deploying": "\u00a77Implantando",
+    "create.recipe.automatic_shapeless": "\u00a77Fabricação sem forma automático",
+    "create.recipe.automatic_brewing": "\u00a77Produção de poções",
+    "create.recipe.packing": "\u00a77Compactando",
+    "create.recipe.automatic_packing": "\u00a77Compactação automático",
+    "create.recipe.sawing": "\u00a77Serrando",
+    "create.recipe.mechanical_crafting": "\u00a77Fabricação mecânica",
+    "create.recipe.automatic_shaped": "\u00a77Fabricação com forma automática",
+    "create.recipe.block_cutting": "\u00a77Corte de blocos",
+    "create.recipe.wood_cutting": "\u00a77Corte de madeira",
+    "create.recipe.sandpaper_polishing": "\u00a77Polimento com lixa",
+    "create.recipe.mystery_conversion": "\u00a77Conversão misteriosa",
+    "create.recipe.spout_filling": "\u00a77Preenchimento com bica",
+    "create.recipe.draining": "\u00a77Drenação de item",
+    "create.recipe.item_application": "\u00a77Aplicação de item manual",
+    "create.recipe.item_application.any_axe": "\u00a77Qualquer machado",
+    "create.recipe.sequenced_assembly": "\u00a77Montagem sequenciada",
+      
+    "create.recipe.heat_requirement.none": "\u00a77Aquecimento não requerido"
+	
+}
+
