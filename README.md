@@ -106,8 +106,17 @@
  <a title="TrashSlot" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/trashslot">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205127768-27fea95b-3726-48b4-80ed-95d3175990e4.png">
 </div>
+ <a title="Compact Machines" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/compact-machines">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205291927-6fca0282-6137-4819-b0e7-0a4aa0e867e4.png">
+</div>
+ <a title="Quark" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/quark">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205292234-69d0068c-c14c-4498-8ffc-0d83404f58aa.png">
+</div>
+ <a title="Solar Flux Reborn" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205292575-d19beca8-b806-4310-9b40-fea72df89867.png">
+</div>
+
 </p>
 </details>
-
 
 
