@@ -148,5 +148,11 @@
  <a title="XNet" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/xnet">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205445610-09ee944e-a677-41bf-8884-8fbbf35a1eeb.png">
 </div>
+ <a title="Just Enough Resources (JER)" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205451967-b3b298bb-491f-4e43-b7f8-81313f5983e4.png">
+</div>
+ <a title="Cosmetic Armor Reworked" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205451999-2cfb0abb-b7d1-4cbc-9ade-7a72800a521c.png">
+</div>
 </p>
 </details>
