@@ -154,5 +154,17 @@
  <a title="Cosmetic Armor Reworked" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205451999-2cfb0abb-b7d1-4cbc-9ade-7a72800a521c.png">
 </div>
+ <a title="Ex Machinis" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/ex-machinis">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205502829-44a8f230-ebef-4486-89c6-9eb2d07b2bd6.png">
+</div>
+ <a title="Ex Nihilo: Sequentia" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-sequentia">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205502937-aa2d9927-0778-45d6-a67f-43f0b0f80919.png">
+</div>
+ <a title="Mob Grinding Utils" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205502975-b4fd9093-32b9-4d09-8769-7dacf6709944.png">
+</div>
+ <a title="Trash Cans" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/trash-cans">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/205503089-d59250e1-9599-4012-9a49-876cbb4e4fa4.png">
+</div>
 </p>
 </details>

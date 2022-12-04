@@ -13,6 +13,8 @@ Cooking for Blockheads
 Compact Machines
 Cosmetic Armor Reworked
 Extreme sound muffler
+Ex Machinis
+Ex Nihilo: Sequentia
 farmersdelight
 fluxnetworks
 hostilenetworks
@@ -29,6 +31,7 @@ Just Enough Resources (JER)
 Quark
 mekanism
 Mystical Agriculture
+Mob Grinding Utils
 Productive Bees
 ME Requester
 Re-chiseled
@@ -45,6 +48,7 @@ Solar Flux Reborn
 Simple Magnets
 trinkets
 TrashSlot
+Trash Cans
 The Twilight Forest
 XNet
 
