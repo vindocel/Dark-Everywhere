@@ -1,0 +1,21 @@
+{
+    "_commentMysticalAgriculture": "Mystical Agriculture",
+    "itemGroup.mysticalagriculture": "\u00a77Mystical Agriculture",
+    "container.mysticalagriculture.tinkering_table": "\u00a77Tinkering Table",
+    "container.mysticalagriculture.inferium_furnace": "\u00a77Inferium Furnace",
+    "container.mysticalagriculture.prudentium_furnace": "\u00a77Prudentium Furnace",
+    "container.mysticalagriculture.tertium_furnace": "\u00a77Tertium Furnace",
+    "container.mysticalagriculture.imperium_furnace": "\u00a77Imperium Furnace",
+    "container.mysticalagriculture.supremium_furnace": "\u00a77Supremium Furnace",
+    "container.mysticalagriculture.awakened_supremium_furnace": "\u00a77Awakened Supremium Furnace",
+    "container.mysticalagriculture.reprocessor": "\u00a77Seed Reprocessor",
+    "container.mysticalagriculture.soul_extractor": "\u00a77Soul Extractor",
+    "container.mysticalagriculture.harvester": "\u00a77Harvester",
+  
+    "jei.category.mysticalagriculture.infusion": "\u00a77Infusion Crafting",
+    "jei.category.mysticalagriculture.awakening": "\u00a77Awakening",
+    "jei.category.mysticalagriculture.reprocessor": "\u00a77Seed Reprocessing",
+    "jei.category.mysticalagriculture.soul_extractor": "\u00a77Soul Extraction",
+    "jei.category.mysticalagriculture.crux": "\u00a77Cruxes",
+    "jei.desc.mysticalagriculture.cognizant_dust": "\u00a77Dropped by the Wither and the Ender Dragon when killed with an Essence Weapon enchanted with Mystical Enlightenment."
+}
