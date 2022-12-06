@@ -1668,6 +1668,10 @@
     "quark.gui.color.crate_count": "#AAAAAA",
     "quark.gui.color.matrix_enchanting": "#AAAAAA",
 
+    "_commentTravelersBackpack": "Traveler's Backpack",
+    "itemGroup.travelersbackpack.group": "\u00a77Traveler's Backpack",
+    "itemGroup.travelersbackpack": "\u00a77Traveler's Backpack",
+
     "_commentSM": "Simple Magnets",
     "itemGroup.simplemagnets": "\u00a77Simple Magnets",
     "item.simplemagnets.basicmagnet": "\u00a77Magnet",
