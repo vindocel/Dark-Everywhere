@@ -1,5 +1,27 @@
 # Dark-Everywhere
 
+<p align="center">
+    <img height="128" width="128" src="pack_hd.png" />
+    <h1 align="center">Dark Everywhere</h1>
+    <h2 align="center">Dark Mode Texture Pack for Minecraft: Java Edition and Mods</h2>
+</p>
+
+<p align="center">
+    <a aria-label="license" href="https://creativecommons.org/licenses/zero/1.0/">
+        <img src="https://img.shields.io/badge/license-CC%20ZERO--1.0-brightgreen.svg">
+    </a>
+<a aria-label="release" href="https://github.com/vindocel/Dark-Everywhere/releases/latest">
+        <img alt="" src="https://img.shields.io/github/v/release/vindocel/Dark-Everywhere">
+    </a>
+<a aria-label="curseforge downloads"https://www.curseforge.com/minecraft/texture-packs/dark-everywhere">
+        <img alt="" src="https://cf.way2muchnoise.eu/687374.svg">
+    </a>
+<a aria-label="github downloads" href="https://github.com/vindocel/Dark-Everywhere/releases">
+        <img alt="" src="https://img.shields.io/github/downloads/vindocel/Dark-Everywhere/total?logo=github">
+    </a>
+</p>
+
+
 ![walla](https://user-images.githubusercontent.com/18473368/205358577-4c2caeb5-1f05-457a-81fb-26b815334c46.png)
 
 
