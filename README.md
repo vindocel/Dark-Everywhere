@@ -11,13 +11,16 @@
 <a aria-label="release" href="https://github.com/vindocel/Dark-Everywhere/releases/latest">
         <img alt="" src="https://img.shields.io/github/v/release/vindocel/Dark-Everywhere">
     </a>
-<a aria-label="curseforge downloads"https://www.curseforge.com/minecraft/texture-packs/dark-everywhere">
-        <img alt="" src="https://cf.way2muchnoise.eu/687374.svg">
-    </a>
+<a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" 
+aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.svg" alt="" /> 
+</a>
 <a aria-label="github downloads" href="https://github.com/vindocel/Dark-Everywhere/releases">
         <img alt="" src="https://img.shields.io/github/downloads/vindocel/Dark-Everywhere/total?logo=github">
     </a>
-</p>
+    
+   <h3 align="center"><a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" aria-label="curseforge Version"> <img src="https://cf.way2muchnoise.eu/versions/687374.svg" alt="" /> </a></h3>
+
+
 
 
 ![walla](https://user-images.githubusercontent.com/18473368/205358577-4c2caeb5-1f05-457a-81fb-26b815334c46.png)
