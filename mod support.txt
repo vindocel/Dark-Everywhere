@@ -49,6 +49,7 @@ Simple Magnets
 trinkets
 TrashSlot
 Trash Cans
+Traveler's Backpack
 The Twilight Forest
 XNet
 

@@ -228,6 +228,10 @@
     "_commentQuark": "Quark",
     "quark.gui.color.crate_count": "#AAAAAA",
     "quark.gui.color.matrix_enchanting": "#AAAAAA",
+    
+    "_commentMV": "Mochila de Viajante",
+    "itemGroup.travelersbackpack.group": "\u00a77Mochila de Viajante",
+    "itemGroup.travelersbackpack": "\u00a77Mochila de Viajante",
 
     "_commentSM": "Simple Magnets",
     "itemGroup.simplemagnets": "\u00a77Simple Magnets",
