@@ -1,5 +1,3 @@
-# Dark-Everywhere
-
 <p align="center">
     <img height="128" width="128" src="pack_hd.png" />
     <h1 align="center">Dark Everywhere</h1>
