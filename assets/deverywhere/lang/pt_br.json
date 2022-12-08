@@ -225,6 +225,10 @@
 
     "itemGroup.computercraft": "\u00a77ComputerCraft",
 
+    "_commentComercianteGoblin": "Comerciante Goblin",
+    "entity.goblintraders.goblin_trader": "\u00a77Comerciante Goblin",
+    "entity.goblintraders.vein_goblin_trader": "\u00a77Comerciante Goblin de Lava",
+
     "_commentQuark": "Quark",
     "quark.gui.color.crate_count": "#AAAAAA",
     "quark.gui.color.matrix_enchanting": "#AAAAAA",
@@ -249,6 +253,16 @@
     "gui.advancedmagnet.xp.range": "\u00a77Alcance ($number$x$number$x$number$ Blocos)",
     "gui.simplemagnets.demagnetization_coil.range": "\u00a77Alcance ($number$x$number$x$number$ Blocos)",
    
+    "_commentSupplementaries": "Supplementaries",
+    "itemGroup.supplementaries": "\u00a77Supplementaries",
+    "block.supplementaries.notice_board": "\u00a77Quadro de Notícias",
+    "block.supplementaries.sack": "\u00a77Saco",
+    "block.supplementaries.safe": "\u00a77Cofre",
+    "block.supplementaries.pulley_block": "\u00a77Bloco de Polia",
+    "entity.supplementaries.dispenser_minecart": "\u00a77Carrinho de Mina Ejetor",
+    "item.supplementaries.dispenser_minecart": "Carrinho de Mina Ejetor",
+    "gui.supplementaries.present": "\u00a77Presente",
+    "gui.supplementaries.trapped_present": "\u00a77Presente Armadilha",
 
     "itemGroup.twilightforest": "\u00a77Twilight Forest",
     "container.uncrafting_table": "\u00a77Bancada de desmontagem",

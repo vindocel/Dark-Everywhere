@@ -191,5 +191,8 @@ aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.
 
  <a title="Traveler's Backpack" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/travelers-backpack">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/206020020-26c2b6a1-94ee-4112-924e-476ec49bd55e.gif">
+
+ <a title="Supplementaries" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/supplementaries">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/206489247-369971c4-1318-47de-b86d-44ff2b5f9933.gif">
 </p>
 </details>

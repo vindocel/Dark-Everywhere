@@ -17,6 +17,7 @@ Ex Machinis
 Ex Nihilo: Sequentia
 farmersdelight
 fluxnetworks
+Goblin Traders
 hostilenetworks
 integratedcrafting
 integrateddynamics
@@ -46,6 +47,7 @@ storagedrawers
 Sophisticated Backpacks
 Solar Flux Reborn
 Simple Magnets
+Supplementaries
 trinkets
 TrashSlot
 Trash Cans
