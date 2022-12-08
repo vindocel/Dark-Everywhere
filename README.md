@@ -21,13 +21,13 @@ aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.
    <h3 align="center"><a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" aria-label="curseforge Version"> <img src="https://cf.way2muchnoise.eu/versions/687374.svg" alt="" /> </a></h3>
 
 
+<p align="center">This Resource Pack is a simple dark mode / dark theme for the Minecraft and Mod GUI.</p>
 
-
-![walla](https://user-images.githubusercontent.com/18473368/205358577-4c2caeb5-1f05-457a-81fb-26b815334c46.png)
+![walla](https://repository-images.githubusercontent.com/548562900/838a6060-5474-40d3-88fa-d5ba9a328263)
 
 
 <details>
-<summary>:eyes: compatible mods</summary>
+<summary>⬇️Mod Support⬇️</summary>
 
 <p align="center">
     <a title="Apotheosis" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/apotheosis">
