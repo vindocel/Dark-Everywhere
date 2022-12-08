@@ -1,0 +1,13 @@
+{
+  "_commentcompactcrafting": "Compact Crafting",
+  "itemGroup.compactcrafting": "\u00a77Compact Crafting",
+  "compactcrafting.jei.miniaturization.title": "\u00a77Miniaturization Crafting",
+  "compactcrafting.jei.miniaturization.component": "\u00a77Material Component: Placed in world.",
+  "compactcrafting.jei.miniaturization.catalyst": "\u00a77Throw this item into the miniaturization field to start crafting.",
+  "compactcrafting.jei.toggle_exploded_view": "\u00a77Exploded View",
+  "compactcrafting.jei.toggle_condensed_view": "\u00a77Condensed View",
+  "compactcrafting.jei.all_layers_mode": "\u00a77View All Layers",
+  "compactcrafting.jei.single_layer_mode": "\u00a77Single Layer Mode",
+  "compactcrafting.jei.layer_up": "\u00a77Layer Up",
+  "compactcrafting.jei.layer_down": "\u00a77Layer Down"
+}

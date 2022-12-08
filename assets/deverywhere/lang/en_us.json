@@ -100,7 +100,6 @@
 	"jer.dim.minecraft:the_nether": "\u00a77The Nether",
 	"jer.dim.minecraft:the_end": "\u00a77The End",
 
-
 	"jer.page": "\u00a77Page",
 	"jer.of": "\u00a77of",
 	"jer.stacks": "\u00a77%s Stacks",
@@ -246,6 +245,18 @@
   "farmersdelight.container.basket": "\u00a77Basket",
   "farmersdelight.container.pantry": "\u00a77Pantry",
 
+  "_commentcompactcrafting": "Compact Crafting",
+  "itemGroup.compactcrafting": "\u00a77Compact Crafting",
+  "compactcrafting.jei.miniaturization.title": "\u00a77Miniaturization Crafting",
+  "compactcrafting.jei.miniaturization.component": "\u00a77Material Component: Placed in world.",
+  "compactcrafting.jei.miniaturization.catalyst": "\u00a77Throw this item into the miniaturization field to start crafting.",
+  "compactcrafting.jei.toggle_exploded_view": "\u00a77Exploded View",
+  "compactcrafting.jei.toggle_condensed_view": "\u00a77Condensed View",
+  "compactcrafting.jei.all_layers_mode": "\u00a77View All Layers",
+  "compactcrafting.jei.single_layer_mode": "\u00a77Single Layer Mode",
+  "compactcrafting.jei.layer_up": "\u00a77Layer Up",
+  "compactcrafting.jei.layer_down": "\u00a77Layer Down",
+  
   "_commentCAMERA": "CAMERA",
   "item.camera.album": "\u00a77Album",
   "gui.camera.choose_filter": "\u00a77Choose a Filter",
@@ -454,6 +465,10 @@
     "modularrouters.guiText.label.xpVacuum.eject" : "\u00a77Eject",
     "modularrouters.guiText.label.xpVacuum" : "\u00a77XP Type",
 
+    "_commentGoblinTrader": "Goblin Trader",
+    "entity.goblintraders.goblin_trader": "\u00a77Goblin Trader",
+    "entity.goblintraders.vein_goblin_trader": "\u00a77Vein Goblin Trader",
+    
     "itemGroup.computercraft": "\u00a77ComputerCraft",
 
     "itemGroup.bigreactors.general": "\u00a77Extreme Reactors",
@@ -1744,6 +1759,17 @@
     "jei.productivebees.centrifuge": "\u00a77Centrifuge",
     "jei.productivebees.incubation": "\u00a77Incubation",
 
+    "_commentSupplementaries": "Supplementaries",
+    "itemGroup.supplementaries": "\u00a77Supplementaries",
+    "block.supplementaries.notice_board": "\u00a77Notice Board",
+    "block.supplementaries.sack": "\u00a77Sack",
+    "block.supplementaries.safe": "\u00a77Safe",
+    "block.supplementaries.pulley_block": "\u00a77Pulley Block",
+    "gui.supplementaries.present": "\u00a77Gift",
+    "gui.supplementaries.trapped_present": "\u00a77Trapped Present",
+    "entity.supplementaries.dispenser_minecart": "\u00a77Minecart with Dispenser",
+    "item.supplementaries.dispenser_minecart": "Minecart with Dispenser",
+    
     "_commentMobGrindingUtils": "Mob Grinding Utils",
     "itemGroup.mob_grinding_utils": "\u00a77Mob Grinding Utils",
     "block.mob_grinding_utils.fan": "\u00a77Mob Fan",
