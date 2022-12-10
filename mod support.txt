@@ -1,9 +1,11 @@
 apotheosis
+alchemistry
 Applied Energistics 2
 Applied Energistics 2 Wireless Terminals
 AE2-Additions
 botanypots
 botanypotstiers
+Cable Tiers
 cloth-config2
 create
 curios
@@ -16,6 +18,7 @@ Extreme sound muffler
 Ex Machinis
 Ex Nihilo: Sequentia
 farmersdelight
+Farming for Blockheads
 fluxnetworks
 Goblin Traders
 hostilenetworks
@@ -29,15 +32,21 @@ ironchest
 Industrial Foregoing
 jei
 Just Enough Resources (JER)
-Quark
+LaserIO
 mekanism
-Mystical Agriculture
-Mob Grinding Utils
-Productive Bees
 ME Requester
+Mystical Agriculture
+MrCrayfish's Furniture Mod
+Mob Grinding Utils
+Nature's Aura
+Pipez
+Powah! (Rearchitected)
+Productive Bees
+Quark
 Re-chiseled
 refinedstorage
 refinedstorageaddons
+Reliquary Reincarnations
 roughlyenoughitems
 RFTools Base
 RFTools Builder
@@ -46,6 +55,7 @@ RFTools Utility
 storagedrawers
 Sophisticated Backpacks
 Solar Flux Reborn
+Shrink
 Simple Magnets
 Supplementaries
 trinkets
