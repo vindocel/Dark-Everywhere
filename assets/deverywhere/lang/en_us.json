@@ -396,6 +396,16 @@
   "block.exmachinis.flux_hammer": "\u00a77Flux Hammer",
   "block.exmachinis.flux_sieve": "\u00a77Flux Sieve",
 
+  "_commentICR": "IRON CHESTS Res",
+  "container.chest.dirt": "\u00a77Dirt Chest",
+  "container.chest.copper": "\u00a77Copper Chest",
+  "container.chest.iron": "\u00a77Iron Chest",
+  "container.chest.gold": "\u00a77Gold Chest",
+  "container.chest.diamond": "\u00a77Diamond Chest",
+  "container.chest.crystal": "\u00a77Crystal Chest",
+  "container.chest.obsidian": "\u00a77Obsidian Chest",
+  "container.chest.netherite": "\u00a77Netherite Chest",
+
   "_commentIC": "IRON CHESTS",
   "ironchest.container.iron_chest": "\u00a77Iron Chest",
   "ironchest.container.gold_chest": "\u00a77Gold Chest",
