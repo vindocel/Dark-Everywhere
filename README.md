@@ -226,3 +226,12 @@ aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/206853858-1344d550-b381-4d38-9538-50cda23d27f3.png">
 </p>
 </details>
+
+</details>
+<h3 align="center">⬇️contribute to our project⬇️</h3>
+<details>
+<summary>❇️How to help❇️</summary>
+If you want to help, download the photoshop actions ><a href=https://github.com/vindocel/Dark-Everywhere/releases/tag/Actions>here</a><
+
+fork the <a href=https://github.com/vindocel/Dark-Everywhere/tree/Alpha>Alpha</a> repository and send commit directly to it to be accepted and tested, if you send commit to final version 1.19 it will be rejected instantly
+</details>
