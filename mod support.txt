@@ -58,6 +58,7 @@ Solar Flux Reborn
 Shrink
 Simple Magnets
 Supplementaries
+Thermal Series
 trinkets
 TrashSlot
 Trash Cans

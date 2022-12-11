@@ -224,6 +224,9 @@ aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.
         
  <a title="Shrink." aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/shrink_">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/206853858-1344d550-b381-4d38-9538-50cda23d27f3.png">
+
+ <a title="Thermal Series" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/thermal-foundation">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/206914792-4a1d5b2a-0b3c-4986-8d82-f4488d53208f.png">
 </p>
 </details>
 
