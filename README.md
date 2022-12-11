@@ -1,27 +1,24 @@
-<p align="center">
-    <img height="128" width="128" src="pack_hd.png" />
-    <h1 align="center">Dark Everywhere</h1>
-    <h2 align="center">Dark Mode Texture Pack for Minecraft: Java Edition and Mods</h2>
-</p>
+<img src="pack_hd.png" alt="Dark-Everywhere" align="right" height="225px">
+<div align="center">
+  <h1>Dark Everywhere</h1>
+  <h3>Dark Mode Texture Pack for Minecraft: Java Edition and Mods</h3>
+  <h5><i>This Resource Pack is a simple dark mode / dark theme for the Minecraft and Mod GUI.</i></h5>
 
-<p align="center">
-    <a aria-label="license" href="https://creativecommons.org/licenses/zero/1.0/">
-        <img src="https://img.shields.io/badge/license-CC%20ZERO--1.0-brightgreen.svg">
-    </a>
+<a aria-label="license" href="https://creativecommons.org/licenses/zero/1.0/">
+        <img src="https://img.shields.io/badge/license-CC%20ZERO--1.0-brightgreen.svg"></a>
 <a aria-label="release" href="https://github.com/vindocel/Dark-Everywhere/releases/latest">
-        <img alt="" src="https://img.shields.io/github/v/release/vindocel/Dark-Everywhere">
-    </a>
+        <img alt="" src="https://img.shields.io/github/v/release/vindocel/Dark-Everywhere"></a>   
 <a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" 
-aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.svg" alt="" /> 
-</a>
+aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.svg" alt="" /></a>
 <a aria-label="github downloads" href="https://github.com/vindocel/Dark-Everywhere/releases">
-        <img alt="" src="https://img.shields.io/github/downloads/vindocel/Dark-Everywhere/total?logo=github">
-    </a>
-    
-   <h3 align="center"><a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" aria-label="curseforge Version"> <img src="https://cf.way2muchnoise.eu/versions/687374.svg" alt="" /> </a></h3>
+        <img alt="" src="https://img.shields.io/github/downloads/vindocel/Dark-Everywhere/total?logo=github"></a>
 
 
-<p align="center">This Resource Pack is a simple dark mode / dark theme for the Minecraft and Mod GUI.</p>
+<h7><a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" aria-label="curseforge Version"> 
+<img src="https://cf.way2muchnoise.eu/versions/687374.svg" alt="" /></a></h7>
+</div>
+
+---
 
 ![walla](https://repository-images.githubusercontent.com/548562900/838a6060-5474-40d3-88fa-d5ba9a328263)
 
