@@ -1,4 +1,4 @@
-<img src="pack_hd.png" alt="Dark-Everywhere" align="right" height="256px">
+<img src="pack_hd.png" alt="Dark-Everywhere" align="right" height="225px">
 <div align="center">
   <h1>Dark Everywhere</h1>
   <h3>Dark Mode Texture Pack for Minecraft: Java Edition and Mods</h3>
