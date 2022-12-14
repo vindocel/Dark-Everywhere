@@ -1,6 +1,7 @@
 {
     "itemGroup.create.base": "\u00a77Create",
     "itemGroup.create.palettes": "\u00a77Paletes Create",
+    "advancement.create.root": "\u00a77Bem vindo a Create",
     
     "item.create.handheld_worldshaper": "§dTerraformador de Mundo Criativo",
     "item.create.linked_controller": "§fControle conectado",

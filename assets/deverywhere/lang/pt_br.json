@@ -1,5 +1,6 @@
 {
     "_commentMinecraft": "Minecraft",
+    "advancements.story.root.title": "\u00a77Minecraft",
     "block.minecraft.black_shulker_box": "\u00a77Caixa de shulker preta",
     "block.minecraft.blue_shulker_box": "\u00a77Caixa de shulker azul",
     "block.minecraft.brown_shulker_box": "\u00a77Caixa de shulker marrom",
@@ -94,6 +95,40 @@
     "gui.jei.category.brewing.steps": "\u00a77Passos: %s",
     "gui.jei.category.itemInformation": "\u00a77Informações",
 
+    "_commentBFR": "Better Furnaces Reforged",
+    "itemGroup.betterfurnacesreforged": "\u00a77Better Furnaces Reforged",
+    "block.betterfurnacesreforged.cobblestone_generator": "\u00a77Gerador de pedregulho",
+    "block.betterfurnacesreforged.diamond_furnace": "\u00a77Fornalha de diamante",
+    "block.betterfurnacesreforged.extreme_forge": "\u00a77Forja extrema",
+    "block.betterfurnacesreforged.extreme_furnace": "\u00a77Fornalha extrema",
+    "block.betterfurnacesreforged.fuel_verifier": "\u00a77Verificador do poder de combustível",
+    "block.betterfurnacesreforged.gold_conductor_block": "\u00a77Bloco condutor de ouro",
+    "block.betterfurnacesreforged.gold_furnace": "\u00a77Fornalha de ouro",
+    "block.betterfurnacesreforged.iron_conductor_block": "\u00a77Bloco condutor de ferro",
+    "block.betterfurnacesreforged.iron_furnace": "\u00a77Fornalha de ferro",
+    "block.betterfurnacesreforged.netherhot_conductor_block": "\u00a77Bloco condutor do calor do nether",
+    "block.betterfurnacesreforged.netherhot_furnace": "\u00a77Fornalha do nether",
+    
+    "gui.betterfurnacesreforged.color.blue": "\u00a71Azul: ",
+    "gui.betterfurnacesreforged.color.green": "\u00a72Verde: ",
+    "gui.betterfurnacesreforged.color.red": "\u00a74Vermelho: ",
+    "gui.betterfurnacesreforged.fuel.items": "\u00a77 iten(s)",
+    "gui.betterfurnacesreforged.fuel.melts": "\u00a77Derrete ",
+
+    "_commentUltimateFurnaces": "Ultimate Furnaces",
+    "itemGroup.ultimatefurnaces_bfr": "\u00a77Ultimate Furnaces",
+    "block.ultimatefurnaces_bfr.copper_furnace": "\u00a77Fornalha de cobre",
+    "block.ultimatefurnaces_bfr.steel_furnace": "\u00a77Fornalha de aço",
+    "block.ultimatefurnaces_bfr.amethyst_furnace": "\u00a77Fornalha de ametista",
+    "block.ultimatefurnaces_bfr.platinum_furnace": "\u00a77Fornalha de platina",
+    "block.ultimatefurnaces_bfr.ultimate_furnace": "\u00a77Fornalha ultimate",
+    "block.ultimatefurnaces_bfr.copper_forge": "\u00a77Forja de cobre",
+    "block.ultimatefurnaces_bfr.iron_forge": "\u00a77Forja de ferro",
+    "block.ultimatefurnaces_bfr.gold_forge": "\u00a77Forja de ouro",
+    "block.ultimatefurnaces_bfr.diamond_forge": "\u00a77Forja de diamante",
+    "block.ultimatefurnaces_bfr.netherhot_forge": "\u00a77Forja do nether",
+    "block.ultimatefurnaces_bfr.ultimate_forge": "\u00a77Forja ultimate",
+
     "_commentcofhcore": "cofh_core",
     "info.cofh.area": "\u00a77Área",
 
@@ -143,6 +178,7 @@
     "_commentFD": "Farmer's Delight",
     "itemGroup.farmersdelight": "\u00a77Farmer's Delight",
     "itemGroup.farmersdelight.main": "\u00a77Farmer's Delight",
+    "farmersdelight.advancement.root": "\u00a77Farmer's Delight",
   
     "farmersdelight.container.cooking_pot": "\u00a77Panela",
     "farmersdelight.container.cooking_pot.served_on": "\u00a77Servido em: ",
@@ -253,6 +289,7 @@
     "message.pipez.filter_destination_tool.destination.set": "\u00a77Conjunto de destino",
 
     "_commentTrash": "Lixeira de Itens",
+    "trashcans.advancement.trash_can.title": "\u00a77Não se esqueça de reciclar",
     "block.trashcans.item_trash_can": "\u00a77Lixeira de Itens",
     "block.trashcans.liquid_trash_can": "\u00a77Lixeira de Líquidos",
     "block.trashcans.energy_trash_can": "\u00a77Lixeira de Energia",
@@ -377,7 +414,7 @@
     "_commentComercianteGoblin": "Comerciante Goblin",
     "entity.goblintraders.goblin_trader": "\u00a77Comerciante Goblin",
     "entity.goblintraders.vein_goblin_trader": "\u00a77Comerciante Goblin de Lava",
-
+    
     "_commentQuark": "Quark",
     "quark.gui.color.crate_count": "#AAAAAA",
     "quark.gui.color.matrix_enchanting": "#AAAAAA",
@@ -442,6 +479,7 @@
     "itemGroup.rangedpumps": "\u00a77Ranged Pumps",
 
     "constants.mekanism.mod_name":"\u00a77Mekanismo",
+    "advancements.mekanism.root.title":"\u00a77Bem Vindo ao Mekanism",
     "itemGroup.darkutils.creative_tab":"\u00a77Dark Utilities",
     "itemGroup.bridges": "\u00a77Macaw's Pontes",
     "itemGroup.mcwdoors": "\u00a77Macaw's Portas",

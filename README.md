@@ -224,6 +224,18 @@ aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.
 
  <a title="Thermal Series" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/thermal-foundation">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/206914792-4a1d5b2a-0b3c-4986-8d82-f4488d53208f.png">
+
+ <a title="Better Advancements" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/better-advancements">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/207644986-92c67b8a-3d14-47fc-bedf-e92dcbb64526.png">
+        
+ <a title="Better Furnaces Reforged + Addons" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/better-furnaces-reforged">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/207645212-e55648df-bee5-45a0-821a-13ffd8e32e91.png">
+
+ <a title="Forbidden and Arcanus" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/207645398-71dcdb7d-11d6-41ae-8f97-c33c9383ec43.png">
+
+ <a title="Polymorph" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/polymorph">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/207645581-3b11c860-2693-4ab7-8be1-e27ec6817ad9.png">
 </p>
 </details>
 
