@@ -1,11 +1,6 @@
 {
     "pack": {
-        "pack_format": 9,
+        "pack_format": 12,
          "description": "Use with moderation!\n\u00a78By VindoCel \u2022 MC 1.19 ❤"
-    },
-    "refinedstorage": {
-    "primary_color": 11184810,
-	"secondary_color": 11184810
-  }
-         
+    }
 }
