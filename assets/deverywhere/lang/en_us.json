@@ -1,5 +1,6 @@
 {
   "_commentMinecraft": "Minecraft",
+  "advancements.story.root.title": "\u00a77Minecraft",
   "merchant.level.1": "\u00a77Novice",
   "merchant.level.2": "\u00a77Apprentice",
   "merchant.level.3": "\u00a77Journeyman",
@@ -233,7 +234,7 @@
 	"jer.waxing_crescent.moon": "\u00a77Waxing Crescent",
 	"jer.first_quarter.moon": "\u00a77First Quarter",
 	"jer.waxing_gibbous.moon": "\u00a77Waxing Gibbous",
-
+  
   "_commentPipez": "Pipez",
   "itemGroup.pipez": "\u00a77Pipez",
   "message.pipez.filter.tag": "\u00a77Tag: %s",
@@ -341,6 +342,40 @@
   "info.lollipop.channel": "\u00a77Channel: %s",
   "info.lollipop.max.channels": "\u00a77Max Channels: %s",
 
+  "_commentBFR": "Better Furnaces Reforged",
+  "itemGroup.betterfurnacesreforged": "\u00a77Better Furnaces Reforged",
+  "block.betterfurnacesreforged.cobblestone_generator": "\u00a77Cobblestone Generator",
+  "block.betterfurnacesreforged.diamond_furnace": "\u00a77Diamond Furnace",
+  "block.betterfurnacesreforged.extreme_forge": "\u00a77Extreme Forge",
+  "block.betterfurnacesreforged.extreme_furnace": "\u00a77Extreme Furnace",
+  "block.betterfurnacesreforged.fuel_verifier": "\u00a77Fuel Power Verifier",
+  "block.betterfurnacesreforged.gold_conductor_block": "\u00a77Gold Conduter Block",
+  "block.betterfurnacesreforged.gold_furnace": "\u00a77Gold Furnace",
+  "block.betterfurnacesreforged.iron_conductor_block": "\u00a77Iron Conduter Block",
+  "block.betterfurnacesreforged.iron_furnace": "\u00a77Iron Furnace",
+  "block.betterfurnacesreforged.netherhot_conductor_block": "\u00a77Netherhot Conduter Block",
+  "block.betterfurnacesreforged.netherhot_furnace": "\u00a77Netherhot Furnace",
+  
+  "gui.betterfurnacesreforged.color.blue": "\u00a71Blue: ",
+  "gui.betterfurnacesreforged.color.green": "\u00a72Green: ",
+  "gui.betterfurnacesreforged.color.red": "\u00a74Red: ",
+  "gui.betterfurnacesreforged.fuel.items": "\u00a77 item(s)",
+  "gui.betterfurnacesreforged.fuel.melts": "\u00a77Melts ",
+
+  "_commentUltimateFurnaces": "Ultimate Furnaces",
+  "itemGroup.ultimatefurnaces_bfr": "\u00a77Ultimate Furnaces",
+  "block.ultimatefurnaces_bfr.copper_furnace": "\u00a77Copper Furnace",
+  "block.ultimatefurnaces_bfr.steel_furnace": "\u00a77Steel Furnace",
+  "block.ultimatefurnaces_bfr.amethyst_furnace": "\u00a77Amethyst Furnace",
+  "block.ultimatefurnaces_bfr.platinum_furnace": "\u00a77Platinum Furnace",
+  "block.ultimatefurnaces_bfr.ultimate_furnace": "\u00a77Ultimate Furnace",
+  "block.ultimatefurnaces_bfr.copper_forge": "\u00a77Copper Forge",
+  "block.ultimatefurnaces_bfr.iron_forge": "\u00a77Iron Forge",
+  "block.ultimatefurnaces_bfr.gold_forge": "\u00a77Gold Forge",
+  "block.ultimatefurnaces_bfr.diamond_forge": "\u00a77Diamond Forge",
+  "block.ultimatefurnaces_bfr.netherhot_forge": "\u00a77Netherhot Forge",
+  "block.ultimatefurnaces_bfr.ultimate_forge": "\u00a77Ultimate Forge",
+
   "_commentcofhcore": "cofh_core",
   "info.cofh.area": "\u00a77Area",
   
@@ -393,6 +428,7 @@
   "_commentFD": "Farmer's Delight",
   "itemGroup.farmersdelight": "\u00a77Farmer's Delight",
   "itemGroup.farmersdelight.main": "\u00a77Farmer's Delight",
+  "farmersdelight.advancement.root": "\u00a77Farmer's Delight",
 
   "farmersdelight.container.cooking_pot": "\u00a77Cooking Pot",
   "farmersdelight.container.cooking_pot.served_on": "\u00a77Served on: %s",
@@ -423,6 +459,7 @@
   "jei.camera.take_image": "\u00a77Taking an image",
 
   "_commentTrash": "Trash Can",
+  "trashcans.advancement.trash_can.title": "\u00a77Don't forget to recycle",
   "block.trashcans.item_trash_can": "\u00a77Item Trash Can",
   "block.trashcans.liquid_trash_can": "\u00a77Fluid Trash Can",
   "block.trashcans.energy_trash_can": "\u00a77Energy Trash Can",
@@ -441,6 +478,7 @@
 
   "_commentExMachinis": "Ex Machinis",
   "itemGroup.exmachinis": "\u00a77Ex Machinis",
+  "advancement.exmachinis.root": "\u00a77Ex Machinis",
   "block.exmachinis.flux_compactor": "\u00a77Flux Compactor",
   "block.exmachinis.flux_hammer": "\u00a77Flux Hammer",
   "block.exmachinis.flux_sieve": "\u00a77Flux Sieve",
@@ -511,7 +549,7 @@
   	"block.solarflux.sp_6": "\u00a77Solar Panel VI",
   	"block.solarflux.sp_7": "\u00a77Solar Panel VII",
   	"block.solarflux.sp_8": "\u00a77Solar Panel VIII",
-
+    
     "_commentBackPacked": "Backpacked",
     "container.backpack": "\u00a77Backpack",
     "curios.identifier.backpacked": "\u00a77Backpacked",
@@ -647,6 +685,7 @@
     "itemGroup.minecolonies": "\u00a77MineColonies",
 
     "itemGroup.compactmachines": "\u00a77Compact Machines",
+    "advancement.compactmachines.root": "\u00a77Compact Machines",
 
     "itemGroup.structurize": "\u00a77Structurize",
     "itemGroup.structurize.construction": "\u00a77Schematic Construction",
@@ -1802,6 +1841,8 @@
 
     "_commentApotheosis": "Apotheosis",
     "itemGroup.apotheosis": "\u00a77Apotheosis",
+    "advancements.apotheosis.spawner": "\u00a77Apotheotic Spawners",
+    "advancements.apotheosis.enchantment": "\u00a77The Secrets of Enchanting",
     "container.apotheosis.salvage": "\u00a77Salvage",
     "text.apotheosis.results": "\u00a77Results",
     "container.apotheosis.reforge": "\u00a77Reforge",
@@ -1983,6 +2024,7 @@
     "itemGroup.rftoolsstorage": "\u00a77RFTools Storage",
     "itemGroup.xnet": "\u00a77XNet",
     "constants.mekanism.mod_name":"\u00a77Mekanism",
+    "advancements.mekanism.root.title":"Mekanism",
     "itemGroup.merequester": "\u00a77ME Requester",
     "itemGroup.appmek": "\u00a77Applied Mekanistics",
     "itemGroup.ae2additions": "\u00a77AE Additions",
@@ -2014,6 +2056,7 @@
     "itemGroup.aeinfinitybooster": "\u00a77AE Infinity Booster",
     "itemGroup.decorative_blocks.general": "\u00a77Decorative Blocks",
     "itemGroup.potionsmaster": "\u00a77Potions Master",
+    "tombstone.advancement.tutorial.title": "\u00a77Tombstone Tutorial",
     "itemGroup.rechiseled": "\u00a77Rechiseled"
     
 }

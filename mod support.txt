@@ -3,6 +3,8 @@ alchemistry
 Applied Energistics 2
 Applied Energistics 2 Wireless Terminals
 AE2-Additions
+Better Advancements
+Better furnaces reforged
 botanypots
 botanypotstiers
 Cable Tiers
@@ -20,6 +22,7 @@ Ex Nihilo: Sequentia
 farmersdelight
 Farming for Blockheads
 fluxnetworks
+Forbidden and Arcanus
 Goblin Traders
 hostilenetworks
 integratedcrafting
@@ -41,6 +44,7 @@ Mob Grinding Utils
 Nature's Aura
 Pipez
 Powah! (Rearchitected)
+Polymorph
 Productive Bees
 Quark
 Re-chiseled

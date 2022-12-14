@@ -1,0 +1,17 @@
+{
+    "_commentForbidden&Arcanus": "Forbidden & Arcanus",
+    "itemGroup.forbidden_arcanus": "\u00a77Forbidden & Arcanus",
+    "containers": "\u00a77Recipientes",
+    "container.dark_beacon": "\u00a77Sinalizador negro",
+    "container.forbidden_arcanus.hephaestus_forge": "\u00a77Forja de Hefesto",
+    "container.forbidden_arcanus.clibano": "\u00a77Clibano",
+    "jei.forbidden_arcanus.category.hephaestusSmithing": "\u00a77Metalurgia de Hefesto",
+    "jei.forbidden_arcanus.category.clibanoCombustion": "\u00a77Combustão Clibano",
+    "jei.forbidden_arcanus.hephaestusSmithing.requiredPedestal": "\u00a77Pedestal obrigatório",
+    "jei.forbidden_arcanus.hephaestusSmithing.requiredLevel": "\u00a77Nível de forja necessário",
+    "jei.forbidden_arcanus.hephaestusSmithing.requiredAureal": "\u00a77Aureal necessário",
+    "jei.forbidden_arcanus.hephaestusSmithing.requiredSouls": "\u00a77Almas necessárias",
+    "jei.forbidden_arcanus.hephaestusSmithing.requiredBlood": "\u00a77Sangue necessário",
+    "jei.forbidden_arcanus.hephaestusSmithing.requiredExperience": "\u00a77Experiência necessária",
+    "jei.forbidden_arcanus.clibanoCombustion.residue": "\u00a77Resíduo"
+}
