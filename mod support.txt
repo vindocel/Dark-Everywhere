@@ -36,6 +36,7 @@ Industrial Foregoing
 jei
 Just Enough Resources (JER)
 LaserIO
+Lazierae2
 mekanism
 ME Requester
 Mystical Agriculture
@@ -43,6 +44,7 @@ MrCrayfish's Furniture Mod
 Mob Grinding Utils
 Nature's Aura
 Pipez
+Pneumaticcraft
 Powah! (Rearchitected)
 Polymorph
 Productive Bees

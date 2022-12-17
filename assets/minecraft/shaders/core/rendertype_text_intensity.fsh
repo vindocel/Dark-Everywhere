@@ -30,3 +30,5 @@ void main() {
 	
     fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);
 }
+
+//Credits: Default-Dark-Mode: https://github.com/nebuIr/Default-Dark-Mode | nebuIr: https://github.com/nebuIr
