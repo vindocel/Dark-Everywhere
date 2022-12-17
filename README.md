@@ -236,6 +236,12 @@ aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.
 
  <a title="Polymorph" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/polymorph">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/207645581-3b11c860-2693-4ab7-8be1-e27ec6817ad9.png">
+
+ <a title="PneumaticCraft: Repressurized" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/208243520-b224a75d-2208-4ccb-a746-a4305665e705.png">
+        
+ <a title="Lazier AE2" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/lazierae2">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/208243610-3aebdbe2-15ae-4bd0-938b-45466f6758f6.png">
 </p>
 </details>
 
