@@ -1,10 +1,14 @@
+Ad Astra!
+Advanced Generators
 apotheosis
 alchemistry
 Applied Energistics 2
 Applied Energistics 2 Wireless Terminals
 AE2-Additions
+Baubley Heart Canisters
 Better Advancements
 Better furnaces reforged
+Blue Skies
 botanypots
 botanypotstiers
 Cable Tiers
@@ -16,15 +20,21 @@ cyclopscore
 Cooking for Blockheads
 Compact Machines
 Cosmetic Armor Reworked
+DimStorage
+Deep Resonance
+Engineer's Decor
+Elemental Craft
 Extreme sound muffler
 Ex Machinis
 Ex Nihilo: Sequentia
 farmersdelight
 Farming for Blockheads
 fluxnetworks
+FTB Industrial Contraptions
 Forbidden and Arcanus
 Goblin Traders
 hostilenetworks
+Immersive Engineering
 integratedcrafting
 integrateddynamics
 integrateddynamicscompat
@@ -33,6 +43,7 @@ integratedterminals
 integratedtunnels
 ironchest
 Industrial Foregoing
+Item Collectors
 jei
 Just Enough Resources (JER)
 LaserIO
@@ -42,34 +53,43 @@ ME Requester
 Mystical Agriculture
 MrCrayfish's Furniture Mod
 Mob Grinding Utils
+MineColonies
 Nature's Aura
 Pipez
 Pneumaticcraft
 Powah! (Rearchitected)
 Polymorph
+Pretty Pipes
 Productive Bees
 Quark
 Re-chiseled
+Reborn Storage
 refinedstorage
 refinedstorageaddons
 Reliquary Reincarnations
 roughlyenoughitems
 RFTools Base
 RFTools Builder
+RFTools Control
+RFTools Power
 RFTools Storage
 RFTools Utility
 storagedrawers
+Security Craft
 Sophisticated Backpacks
 Solar Flux Reborn
 Shrink
 Simple Magnets
+Simple Storage Network
 Supplementaries
 Thermal Series
 trinkets
 TrashSlot
 Trash Cans
 Traveler's Backpack
+Tinkers Construct
 The Twilight Forest
+Tom's Simple Storage
 XNet
 
 
