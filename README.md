@@ -242,6 +242,60 @@ aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.
         
  <a title="Lazier AE2" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/lazierae2">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/208243610-3aebdbe2-15ae-4bd0-938b-45466f6758f6.png">
+
+ <a title="Ad Astra!" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/ad-astra">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482303-2f06a8e8-d571-4909-8fa9-b4301ef4a6f2.png">
+        
+ <a title="Advanced Generators" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/advanced-generators">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482316-2f235d11-3f4c-45c1-b252-89a9ed2ce79c.png">
+        
+ <a title="Baubley Heart Canisters" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482339-1cbff61f-e1a8-4b3c-9b67-ea8cd6d321bf.png">
+        
+ <a title="Blue Skies" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/blue-skies">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482357-cadb6159-89e1-407a-bd81-3230adfdabf9.png">
+        
+ <a title="DimStorage" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/dimstorage">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482390-e3f0332f-1c6a-468d-9ade-87e55db66abe.png">
+        
+ <a title="Deep Resonance" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/deep-resonance">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482415-85ce2031-a822-4974-901c-15c3c1bc0da6.png">
+        
+ <a title="Engineer's Decor" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/engineers-decor">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482436-c950b042-ba65-4d98-85dd-db0f04ecbd7c.png">
+        
+ <a title="Elemental Craft" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/elemental-craft">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482455-1681588f-4cde-49c5-9d87-475151346643.png">
+        
+ <a title="FTB Industrial Contraptions" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions-forge">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482480-ca5230dc-d9dd-42a6-83c9-95008ed63502.png">
+        
+ <a title="Immersive Engineering" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/immersive-engineering">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482505-c2cb4865-a123-4357-aa77-d22a847d5123.png">
+        
+ <a title="Item Collectors" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/item-collectors">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482523-91b57508-5f64-4ba1-a789-ed62ca3feb7b.png">
+
+ <a title="MineColonies" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/minecolonies">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482545-8fd695ae-5d1d-489c-8f3a-66d349b0eb91.png">
+        
+ <a title="Pretty Pipes" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/pretty-pipes">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482566-3fec8b5b-b288-4992-8549-3256e4f81e2b.png">
+        
+ <a title="Reborn Storage" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/rebornstorage">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482582-44929815-39d5-43e5-95ba-5ef0ca3568ed.png">
+        
+ <a title="Security Craft" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/security-craft">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482594-741114c4-47f2-438c-9e7c-386b130a50e5.png">
+
+ <a title="Simple Storage Network" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/simple-storage-network">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482606-1ebf6423-a8ec-4ac2-9ef8-8ea4b977d5e2.png">
+
+ <a title="Tinkers Construct" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/tinkers-construct">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482624-eece5703-eb29-4d3a-97f2-345486c07566.png">
+        
+ <a title="Tom's Simple Storage" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/toms-storage">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482640-b80113a1-5998-4777-80cc-8011d6f826ab.png">
 </p>
 </details>
 
