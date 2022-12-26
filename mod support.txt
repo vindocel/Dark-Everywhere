@@ -35,6 +35,8 @@ Forbidden and Arcanus
 Goblin Traders
 hostilenetworks
 Immersive Engineering
+Inventory HUD+
+Inventory Profiles Next
 integratedcrafting
 integrateddynamics
 integrateddynamicscompat
@@ -61,6 +63,8 @@ Powah! (Rearchitected)
 Polymorph
 Pretty Pipes
 Productive Bees
+ProjectE
+Project Expansion
 Quark
 Re-chiseled
 Reborn Storage

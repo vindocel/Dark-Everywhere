@@ -296,6 +296,15 @@ aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.
         
  <a title="Tom's Simple Storage" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/toms-storage">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482640-b80113a1-5998-4777-80cc-8011d6f826ab.png">
+
+ <a title="Inventory HUD+" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209580578-b05d6dd1-c1d9-43e7-955f-e060db922559.png">
+        
+ <a title="Inventory Profiles Next" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209580638-3f6d3fd0-118e-48f0-9cfc-def3b4a56827.png">
+        
+ <a title="ProjectE" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/projecte">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209580679-c716be94-0331-442a-82ec-e1cc0918b05a.png">
 </p>
 </details>
 
