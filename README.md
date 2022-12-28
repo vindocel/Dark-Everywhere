@@ -5,13 +5,13 @@
   <h5><i>This Resource Pack is a simple dark mode / dark theme for the Minecraft and Mod GUI.</i></h5>
 
 <a aria-label="license" href="https://creativecommons.org/licenses/zero/1.0/">
-        <img src="https://img.shields.io/badge/license-CC%20ZERO--1.0-brightgreen.svg"></a>
+        <img src="https://img.shields.io/badge/CC%20ZERO--1.0-1f1f1f?logo=Unlicense&logoColor=white&label=license"></a>
 <a aria-label="release" href="https://github.com/vindocel/Dark-Everywhere/releases/latest">
-        <img alt="" src="https://img.shields.io/github/v/release/vindocel/Dark-Everywhere"></a>   
-<a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" 
-aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.svg" alt="" /></a>
+        <img alt="" src="https://img.shields.io/github/v/release/vindocel/Dark-Everywhere?logo=Git%20LFS&logoColor=white&color=1f1f1f"></a>
+<a aria-label="curseforge downloads" href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files">
+        <img alt="" src="https://img.shields.io/badge/dynamic/json?color=1f1f1f&label=downloads&logoColor=white&logo=CurseForge&query=downloads.total&url=https://api.cfwidget.com/687374"></a>
 <a aria-label="github downloads" href="https://github.com/vindocel/Dark-Everywhere/releases">
-        <img alt="" src="https://img.shields.io/github/downloads/vindocel/Dark-Everywhere/total?logo=github"></a>
+        <img alt="" src="https://img.shields.io/github/downloads/vindocel/Dark-Everywhere/total?logo=github&logoColor=white&color=1f1f1f"></a>
 
 
 <h7><a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" aria-label="curseforge Version"> 
