@@ -1,8 +1,10 @@
-<img src="pack_hd.png" alt="Dark-Everywhere" align="right" height="225px">
 <div align="center">
+<img src="pack_hd.png" alt="Dark-Everywhere" height="128px">
   <h1>Dark Everywhere</h1>
   <h3>Dark Mode Texture Pack for Minecraft: Java Edition and Mods</h3>
   <h5><i>This Resource Pack is a simple dark mode / dark theme for the Minecraft and Mod GUI.</i></h5>
+  
+---
 
 <a aria-label="license" href="https://creativecommons.org/licenses/zero/1.0/">
         <img src="https://img.shields.io/badge/CC%20ZERO--1.0-1f1f1f?logo=Unlicense&logoColor=white&label=license"></a>
