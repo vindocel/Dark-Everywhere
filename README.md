@@ -15,7 +15,7 @@
 
 
 <h7><a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" aria-label="curseforge Version"> 
-<img src="https://cf.way2muchnoise.eu/versions/687374.svg" alt="" /></a></h7>
+<img src="https://cf.way2muchnoise.eu/versions/Available%20for_687374_all(4c4c4c-1c1c1c-ffffff-ffffff).svg" alt="" /></a></h7>
 </div>
 
 ---
