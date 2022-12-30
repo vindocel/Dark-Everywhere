@@ -1,21 +1,23 @@
-<img src="pack_hd.png" alt="Dark-Everywhere" align="right" height="225px">
 <div align="center">
+<img src="pack_hd.png" alt="Dark-Everywhere" height="128px">
   <h1>Dark Everywhere</h1>
   <h3>Dark Mode Texture Pack for Minecraft: Java Edition and Mods</h3>
   <h5><i>This Resource Pack is a simple dark mode / dark theme for the Minecraft and Mod GUI.</i></h5>
+  
+---
 
 <a aria-label="license" href="https://creativecommons.org/licenses/zero/1.0/">
-        <img src="https://img.shields.io/badge/license-CC%20ZERO--1.0-brightgreen.svg"></a>
+        <img src="https://img.shields.io/badge/CC%20ZERO--1.0-1f1f1f?logo=Unlicense&logoColor=white&label=license"></a>
 <a aria-label="release" href="https://github.com/vindocel/Dark-Everywhere/releases/latest">
-        <img alt="" src="https://img.shields.io/github/v/release/vindocel/Dark-Everywhere"></a>   
-<a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" 
-aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.svg" alt="" /></a>
+        <img alt="" src="https://img.shields.io/github/v/release/vindocel/Dark-Everywhere?logo=Git%20LFS&logoColor=white&color=1f1f1f"></a>
+<a aria-label="curseforge downloads" href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files">
+        <img alt="" src="https://img.shields.io/badge/dynamic/json?color=1f1f1f&label=downloads&logoColor=white&logo=CurseForge&query=downloads.total&url=https://api.cfwidget.com/687374"></a>
 <a aria-label="github downloads" href="https://github.com/vindocel/Dark-Everywhere/releases">
-        <img alt="" src="https://img.shields.io/github/downloads/vindocel/Dark-Everywhere/total?logo=github"></a>
+        <img alt="" src="https://img.shields.io/github/downloads/vindocel/Dark-Everywhere/total?logo=github&logoColor=white&color=1f1f1f"></a>
 
 
 <h7><a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" aria-label="curseforge Version"> 
-<img src="https://cf.way2muchnoise.eu/versions/687374.svg" alt="" /></a></h7>
+<img src="https://cf.way2muchnoise.eu/versions/Available%20for_687374_all(4c4c4c-1c1c1c-ffffff-ffffff).svg" alt="" /></a></h7>
 </div>
 
 ---
@@ -296,6 +298,23 @@ aria-label="curseforge downloads"> <img src="https://cf.way2muchnoise.eu/687374.
         
  <a title="Tom's Simple Storage" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/toms-storage">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209482640-b80113a1-5998-4777-80cc-8011d6f826ab.png">
+
+ <a title="Inventory HUD+" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209580578-b05d6dd1-c1d9-43e7-955f-e060db922559.png">
+        
+ <a title="Inventory Profiles Next" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209580638-3f6d3fd0-118e-48f0-9cfc-def3b4a56827.png">
+        
+ <a title="ProjectE" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/projecte">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209580679-c716be94-0331-442a-82ec-e1cc0918b05a.png">
+ <a title="Additional Enchanted Miner" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/210101563-7e4fbc60-9247-4077-aff8-08c053527ff6.png">
+        
+ <a title="Charm" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/projecte">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/210101610-d50ecb5c-7096-4573-bac3-ede270887d7d.png">
+
+ <a title="Libgui" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/libgui">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/210101691-a401cb8a-3d7c-488a-926c-085d70456cfe.png">
 </p>
 </details>
 
