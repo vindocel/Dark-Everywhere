@@ -307,6 +307,14 @@
         
  <a title="ProjectE" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/projecte">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/209580679-c716be94-0331-442a-82ec-e1cc0918b05a.png">
+ <a title="Additional Enchanted Miner" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/210101563-7e4fbc60-9247-4077-aff8-08c053527ff6.png">
+        
+ <a title="Charm" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/projecte">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/210101610-d50ecb5c-7096-4573-bac3-ede270887d7d.png">
+
+ <a title="Libgui" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/libgui">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/210101691-a401cb8a-3d7c-488a-926c-085d70456cfe.png">
 </p>
 </details>
 
