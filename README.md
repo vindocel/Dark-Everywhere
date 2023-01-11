@@ -17,7 +17,7 @@
 
 
 <h7><a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" aria-label="curseforge Version"> 
-<img src="https://cf.way2muchnoise.eu/versions/Available%20for_687374_all(4c4c4c-1c1c1c-ffffff-ffffff).svg" alt="" /></a></h7>
+<img src="https://img.shields.io/badge/1.19%20%7C%201.18-1f1f1f?logo=Hack%20The%20Box&logoColor=white&label=Available%20for" alt="" /></a></h7>
 </div>
 
 ---
