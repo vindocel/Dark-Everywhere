@@ -1,6 +1,8 @@
+<p align="center">
+<a><img alt="right" alt="Rafa-pic" height="188" src="https://user-images.githubusercontent.com/18473368/212359106-d6b15c63-906b-4897-ac9b-b0fb76a22948.png"></a></p>
+
+![FUNDO](https://user-images.githubusercontent.com/18473368/212367558-89a76469-0f80-4a55-8add-9253ccb52355.png)
 <div align="center">
-<img src="pack_hd.png" alt="Dark-Everywhere" height="128px">
-  <h1>Dark Everywhere</h1>
   <h3>Dark Mode Texture Pack for Minecraft: Java Edition and Mods</h3>
   <h5><i>This Resource Pack is a simple dark mode / dark theme for the Minecraft and Mod GUI.</i></h5>
   
@@ -11,19 +13,18 @@
 <a aria-label="release" href="https://github.com/vindocel/Dark-Everywhere/releases/latest">
         <img alt="" src="https://img.shields.io/github/v/release/vindocel/Dark-Everywhere?logo=Git%20LFS&logoColor=white&color=1f1f1f"></a>
 <a aria-label="curseforge downloads" href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files">
-        <img alt="" src="https://img.shields.io/badge/dynamic/json?color=1f1f1f&label=downloads&logoColor=white&logo=CurseForge&query=downloads.total&url=https://api.cfwidget.com/687374"></a>
+        <img alt="" src="https://img.shields.io/badge/dynamic/json?color=1f1f1f&label=CurseForge&logoColor=white&logo=CurseForge&query=downloads.total&url=https://api.cfwidget.com/687374"></a>
+<a aria-label="modrinth downloads" href="https://modrinth.com/resourcepack/dark-everywhere">
+        <img alt="" src="https://img.shields.io/modrinth/dt/cwUMcX8W?color=1f1f1f&label=Modrinth&logoColor=white&logo=Modrinth"></a>
 <a aria-label="github downloads" href="https://github.com/vindocel/Dark-Everywhere/releases">
-        <img alt="" src="https://img.shields.io/github/downloads/vindocel/Dark-Everywhere/total?logo=github&logoColor=white&color=1f1f1f"></a>
+        <img alt="" src="https://img.shields.io/github/downloads/vindocel/Dark-Everywhere/total?logo=github&label=GitHub&logoColor=white&color=1f1f1f"></a>
 
 
 <h7><a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" aria-label="curseforge Version"> 
-<img src="https://cf.way2muchnoise.eu/versions/Available%20for_687374_all(4c4c4c-1c1c1c-ffffff-ffffff).svg" alt="" /></a></h7>
+<img src="https://img.shields.io/badge/1.19%20%7C%201.18-1f1f1f?logo=Hack%20The%20Box&logoColor=white&label=Available%20for" alt="" /></a></h7>
 </div>
 
 ---
-
-![walla](https://repository-images.githubusercontent.com/548562900/838a6060-5474-40d3-88fa-d5ba9a328263)
-
 
 <details>
 <summary>⬇️Mod Support⬇️</summary>
@@ -315,6 +316,12 @@
 
  <a title="Libgui" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/libgui">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/210101691-a401cb8a-3d7c-488a-926c-085d70456cfe.png">
+
+ <a title="Farmer's Respite" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/farmers-respite">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/212310775-5743d9c0-1462-4d6c-904a-181120acafa5.png">        
+        
+ <a title="Nether's Delight" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/nethers-delight">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/212310919-016c3c8d-4c53-47da-9fcd-4684a32f25ce.png">
 </p>
 </details>
 
