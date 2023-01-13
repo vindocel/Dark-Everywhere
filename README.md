@@ -317,6 +317,12 @@
 
  <a title="Libgui" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/libgui">
         <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/210101691-a401cb8a-3d7c-488a-926c-085d70456cfe.png">
+
+ <a title="Farmer's Respite" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/farmers-respite">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/212310775-5743d9c0-1462-4d6c-904a-181120acafa5.png">        
+        
+ <a title="Nether's Delight" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/nethers-delight">
+        <img alt="right" alt="Rafa-pic" height="50" width="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/212310919-016c3c8d-4c53-47da-9fcd-4684a32f25ce.png">
 </p>
 </details>
 
