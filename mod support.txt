@@ -31,6 +31,7 @@ Ex Machinis
 Ex Nihilo: Sequentia
 farmersdelight
 Farming for Blockheads
+Farmer's Respite
 fluxnetworks
 FTB Industrial Contraptions
 Forbidden and Arcanus
@@ -60,6 +61,7 @@ MrCrayfish's Furniture Mod
 Mob Grinding Utils
 MineColonies
 Nature's Aura
+Nether's Delight
 Pipez
 Pneumaticcraft
 Powah! (Rearchitected)
