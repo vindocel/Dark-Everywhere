@@ -1,6 +1,8 @@
+<p align="center">
+<a><img alt="right" alt="Rafa-pic" height="188" src="https://user-images.githubusercontent.com/18473368/212359106-d6b15c63-906b-4897-ac9b-b0fb76a22948.png"></a></p>
+
+![FUNDO](https://user-images.githubusercontent.com/18473368/212367558-89a76469-0f80-4a55-8add-9253ccb52355.png)
 <div align="center">
-<img src="pack_hd.png" alt="Dark-Everywhere" height="128px">
-  <h1>Dark Everywhere</h1>
   <h3>Dark Mode Texture Pack for Minecraft: Java Edition and Mods</h3>
   <h5><i>This Resource Pack is a simple dark mode / dark theme for the Minecraft and Mod GUI.</i></h5>
   
@@ -23,9 +25,6 @@
 </div>
 
 ---
-
-![walla](https://repository-images.githubusercontent.com/548562900/838a6060-5474-40d3-88fa-d5ba9a328263)
-
 
 <details>
 <summary>⬇️Mod Support⬇️</summary>
