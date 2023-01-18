@@ -59,6 +59,7 @@ ME Requester
 Mystical Agriculture
 MrCrayfish's Furniture Mod
 Mob Grinding Utils
+Mo' Shiz Mod
 MineColonies
 Nature's Aura
 Nether's Delight
