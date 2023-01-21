@@ -2,6 +2,7 @@
 <a><img alt="right" alt="Rafa-pic" height="188" src="https://user-images.githubusercontent.com/18473368/212359106-d6b15c63-906b-4897-ac9b-b0fb76a22948.png"></a></p>
 
 ![FUNDO](https://user-images.githubusercontent.com/18473368/212367558-89a76469-0f80-4a55-8add-9253ccb52355.png)
+
 <div align="center">
   <h3>Dark Mode Texture Pack for Minecraft: Java Edition and Mods</h3>
   <h5><i>This Resource Pack is a simple dark mode / dark theme for the Minecraft and Mod GUI.</i></h5>
@@ -19,8 +20,9 @@
 <a aria-label="github downloads" href="https://github.com/vindocel/Dark-Everywhere/releases">
 <img alt="" src="https://img.shields.io/github/downloads/vindocel/Dark-Everywhere/total?logo=github&label=GitHub&logoColor=white&color=1f1f1f"></a>
 
-<h7><a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" aria-label="curseforge Version"> 
+<h7><a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" aria-label="curseforge Version">
 <img src="https://img.shields.io/badge/1.19%20%7C%201.18-1f1f1f?logo=Hack%20The%20Box&logoColor=white&label=Available%20for" alt="" /></a></h7>
+
 </div>
 
 ---
@@ -333,7 +335,8 @@
 <h3 align="center">⬇️contribute to our project⬇️</h3>
 <details>
 <summary>❇️How to help❇️</summary>
-If you want to help, download the photoshop actions ><a href=https://github.com/vindocel/Dark-Everywhere/releases/tag/Actions>here</a><
+If you want to help, download the photoshop actions. ><a href=https://github.com/vindocel/Dark-Everywhere/releases/tag/Actions>here</a><
 
 fork the <a href=https://github.com/vindocel/Dark-Everywhere/tree/Alpha>Alpha</a> repository and send commit directly to it to be accepted and tested, if you send commit to final version 1.19 it will be rejected instantly
+
 </details>
