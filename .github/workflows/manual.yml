@@ -6,10 +6,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: vindocel/Dark-Everywhere
     - name: Get tag input
       id: get_tag_input
-      uses: actions/input@v2
+      uses: vindocel/Dark-Everywhere
       with:
         name: tag_name
         message: 'Enter the tag name in the format v0.0.0'
