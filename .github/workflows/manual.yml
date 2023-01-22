@@ -9,7 +9,7 @@ jobs:
       uses: vindocel/Dark-Everywhere
     - name: Get tag input
       id: get_tag_input
-      uses: vindocel/Dark-Everywhere
+      uses: actions/input@v2
       with:
         name: tag_name
         message: 'Enter the tag name in the format v0.0.0'
