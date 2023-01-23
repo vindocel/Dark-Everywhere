@@ -1,66 +1,67 @@
 Ad Astra!
-Advanced Generators
 Additional Enchanted Miner
-apotheosis
-alchemistry
+Advanced Generators
+AE2-Additions
+Alchemistry
 Applied Energistics 2
 Applied Energistics 2 Wireless Terminals
-AE2-Additions
+Apotheosis
 Baubley Heart Canisters
 Better Advancements
-Better furnaces reforged
+Better Furnaces Reforged
 Blue Skies
-botanypots
-botanypotstiers
+Botanypots
+Botanypotstiers
 Cable Tiers
-cloth-config2
-create
-curios
-cyclic
-cyclopscore
 Charm
-Cooking for Blockheads
+Cloth-config2
 Compact Machines
+Cooking for Blockheads
 Cosmetic Armor Reworked
-DimStorage
+Create
+Curios
+Cyclic
+Cyclopscore
 Deep Resonance
+DimStorage
 Engineer's Decor
 Elemental Craft
-Extreme sound muffler
 Ex Machinis
 Ex Nihilo: Sequentia
-farmersdelight
+Extreme Sound Muffler
+Farmersdelight
 Farming for Blockheads
 Farmer's Respite
-fluxnetworks
+Fantasy's Furniture
+Fluxnetworks
 FTB Industrial Contraptions
 Forbidden and Arcanus
 Goblin Traders
-hostilenetworks
+Hostilenetworks
 Immersive Engineering
 Inventory HUD+
 Inventory Profiles Next
-integratedcrafting
-integrateddynamics
-integrateddynamicscompat
-integratednbt
-integratedterminals
-integratedtunnels
-ironchest
+Integratedcrafting
+Integrateddynamics
+Integrateddynamicscompat
+Integratednbt
+Integratedterminals
+Integratedtunnels
+Ironchest
 Industrial Foregoing
 Item Collectors
-jei
+Jei
 Just Enough Resources (JER)
 LaserIO
 Lazierae2
 Libgui
-mekanism
+Mekanism
 ME Requester
-Mystical Agriculture
-MrCrayfish's Furniture Mod
+MineColonies
 Mob Grinding Utils
 Mo' Shiz Mod
-MineColonies
+MrCrayfish's Furniture Mod
+Mystical Agriculture
 Nature's Aura
 Nether's Delight
 Pipez
@@ -74,34 +75,29 @@ Project Expansion
 Quark
 Re-chiseled
 Reborn Storage
-refinedstorage
-refinedstorageaddons
+Refinedstorage
+Refinedstorageaddons
 Reliquary Reincarnations
-roughlyenoughitems
+Roughlyenoughitems
 RFTools Base
 RFTools Builder
 RFTools Control
 RFTools Power
 RFTools Storage
 RFTools Utility
-storagedrawers
 Security Craft
+Simple Magnets
+Simple Storage Network
 Sophisticated Backpacks
 Solar Flux Reborn
 Shrink
-Simple Magnets
-Simple Storage Network
 Supplementaries
 Thermal Series
-trinkets
-TrashSlot
 Trash Cans
+TrashSlot
 Traveler's Backpack
+Trinkets
 Tinkers Construct
 The Twilight Forest
 Tom's Simple Storage
 XNet
-
-
-
-

@@ -328,6 +328,9 @@
 <a title="Mo' Shiz Mod" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/mo-shiz-mod">
                      <img alt="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/213427759-9a5ee9db-199f-4261-b8f6-5c883b4c907e.png">
 
+<a title="Fantasy's Furniture" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture">
+                     <img alt="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/213915119-3c73ec9e-545f-40f0-97fc-080dc3c4b38b.png">
+
 </p>
 </details>
 
