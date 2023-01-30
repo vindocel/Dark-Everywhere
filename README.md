@@ -331,6 +331,26 @@
 <a title="Fantasy's Furniture" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture">
                      <img alt="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/213915119-3c73ec9e-545f-40f0-97fc-080dc3c4b38b.png">
 
+<a title="Beyond Earth" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/beyond-earth">
+                     <img alt="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/215365032-9aa46485-6247-48bd-8c87-aa5ddef30135.png">
+
+<a title="Builder's Delight" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/builders-delight-forge">
+                     <img alt="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/215365117-159cd5fc-244a-47b8-87d3-e72df49b95a0.png">
+
+<a title="Corpse" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/corpse">
+                     <img alt="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/215365182-034bd029-67e5-4f44-b66f-7a74e1a83d71.png">
+
+<a title="EvilCraft" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/evilcraft">
+                     <img alt="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/215365263-01382d1d-28e7-43e7-a11b-c4ce0d4d0994.png">
+
+<a title="JobsAddon" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/jobsaddon">
+                     <img alt="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/215365325-820ab990-645c-41c5-9b53-97618a71323d.png">
+
+<a title="LevelZ" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/levelz">
+                     <img alt="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/215365396-a093a3be-2791-415a-9377-f2bdebc133de.png">
+
+<a title="Summoning Rituals" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/summoningrituals">
+                     <img alt="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/215365456-5abbbd52-9df3-4e37-b18a-cd8a8b2d13c7.png">
 </p>
 </details>
 

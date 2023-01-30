@@ -7,9 +7,11 @@ Applied Energistics 2
 Applied Energistics 2 Wireless Terminals
 Apotheosis
 Baubley Heart Canisters
+Beyond Earth
 Better Advancements
 Better Furnaces Reforged
 Blue Skies
+Builder's Delight
 Botanypots
 Botanypotstiers
 Cable Tiers
@@ -18,6 +20,7 @@ Cloth-config2
 Compact Machines
 Cooking for Blockheads
 Cosmetic Armor Reworked
+Corpse
 Create
 Curios
 Cyclic
@@ -26,6 +29,7 @@ Deep Resonance
 DimStorage
 Engineer's Decor
 Elemental Craft
+EvilCraft
 Ex Machinis
 Ex Nihilo: Sequentia
 Extreme Sound Muffler
@@ -52,8 +56,10 @@ Industrial Foregoing
 Item Collectors
 Jei
 Just Enough Resources (JER)
+JobsAddon
 LaserIO
 Lazierae2
+LevelZ
 Libgui
 Mekanism
 ME Requester
@@ -88,6 +94,7 @@ RFTools Utility
 Security Craft
 Simple Magnets
 Simple Storage Network
+Summoning Rituals
 Sophisticated Backpacks
 Solar Flux Reborn
 Shrink
