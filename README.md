@@ -1,7 +1,5 @@
-<p align="center">
-<a><img alt="right" alt="Rafa-pic" height="188" src="https://user-images.githubusercontent.com/18473368/212359106-d6b15c63-906b-4897-ac9b-b0fb76a22948.png"></a></p>
-
-![FUNDO](https://user-images.githubusercontent.com/18473368/212367558-89a76469-0f80-4a55-8add-9253ccb52355.png)
+<p align="center"><img height="90" src="https://user-images.githubusercontent.com/18473368/216816541-89b855de-ddfa-49b1-b5b3-e7e0158c3ebb.png">
+<img src="https://user-images.githubusercontent.com/18473368/212367558-89a76469-0f80-4a55-8add-9253ccb52355.png"></p>
 
 <div align="center">
   <h3>Dark Mode Texture Pack for Minecraft: Java Edition and Mods</h3>

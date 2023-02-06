@@ -101,6 +101,7 @@
 | Solar Flux Reborn | <a href=https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn>here</a> |
 | Shrink | <a href=https://www.curseforge.com/minecraft/mc-mods/shrink_>here</a> |
 | Supplementaries | <a href=https://www.curseforge.com/minecraft/mc-mods/supplementaries>here</a> |
+| TerraFirmaCraft | <a href=https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft>here</a> |
 | Thermal Series | <a href=https://www.curseforge.com/minecraft/mc-mods/thermal-foundation>here</a> |
 | Trash Cans | <a href=https://www.curseforge.com/minecraft/mc-mods/trash-cans>here</a> |
 | TrashSlot | <a href=https://www.curseforge.com/minecraft/mc-mods/trashslot>here</a> |
