@@ -45,6 +45,7 @@
 | Goblin Traders | <a href=https://www.curseforge.com/minecraft/mc-mods/goblin-traders>here</a> |
 | Hostile Neural Networks | <a href=https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks>here</a> |
 | Immersive Engineering | <a href=https://www.curseforge.com/minecraft/mc-mods/immersive-engineering>here</a> |
+| Industrial Revolution | <a href=https://www.curseforge.com/minecraft/mc-mods/industrial-revolution>here</a> |
 | Inventory HUD+ | <a href=https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge>here</a> |
 | Inventory Profiles Next | <a href=https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next>here</a> |
 | Integrated Crafting | <a href=https://www.curseforge.com/minecraft/mc-mods/integrated-crafting>here</a> |
@@ -80,6 +81,7 @@
 | Productive Bees | <a href=https://www.curseforge.com/minecraft/mc-mods/productivebees>here</a> |
 | ProjectE | <a href=https://www.curseforge.com/minecraft/mc-mods/projecte>here</a> |
 | Project Expansion | <a href=https://www.curseforge.com/minecraft/mc-mods/project-expansion>here</a> |
+| Project MMO | <a href=https://www.curseforge.com/minecraft/mc-mods/project-mmo>here</a> |
 | Quark | <a href=https://www.curseforge.com/minecraft/mc-mods/quark>here</a> |
 | Re-chiseled | <a href=https://www.curseforge.com/minecraft/mc-mods/rechiseled>here</a> |
 | Reborn Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/rebornstorage>here</a> |
