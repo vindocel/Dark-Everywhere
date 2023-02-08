@@ -73,6 +73,7 @@
 | Mystical Agriculture | <a href=https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture>here</a> |
 | Nature's Aura | <a href=https://www.curseforge.com/minecraft/mc-mods/natures-aura>here</a> |
 | Nether's Delight | <a href=https://www.curseforge.com/minecraft/mc-mods/nethers-delight>here</a> |
+| Occultism | <a href=https://www.curseforge.com/minecraft/mc-mods/occultism>here</a> |
 | Pipez | <a href=https://www.curseforge.com/minecraft/mc-mods/pipez>here</a> |
 | PneumaticCraft: Repressurized | <a href=https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized>here</a> |
 | Powah! (Rearchitected) | <a href=https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected>here</a> |

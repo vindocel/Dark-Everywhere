@@ -349,6 +349,19 @@
 
 <a title="Summoning Rituals" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/summoningrituals">
                      <img alt="right" alt="Rafa-pic" width="50" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/215365456-5abbbd52-9df3-4e37-b18a-cd8a8b2d13c7.png">
+
+<a title="TerraFirmaCraft" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft">
+                     <img alt="right" alt="Rafa-pic" width="50" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/217640992-d2c6017f-f53a-4ea9-979e-ddbf066f5a4e.png">
+    
+<a title="Industrial Revolution" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/industrial-revolution">
+                     <img alt="right" alt="Rafa-pic" width="50" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/217641490-7f8daecc-0d4e-481f-92af-6e3e71f13528.png">
+
+<a title="Project MMO" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/project-mmo">
+                     <img alt="right" alt="Rafa-pic" width="50" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/217641623-f77a1511-95fa-4724-8b0e-46e593a6df1e.png">
+
+<a title="Occultism" aria-label="build" href="https://www.curseforge.com/minecraft/mc-mods/occultism">
+                     <img alt="right" alt="Rafa-pic" width="50" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/18473368/217655064-f88602ff-d7e5-4d76-a443-4987d75a010f.png">
+
 </p>
 </details>
 
