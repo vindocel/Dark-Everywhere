@@ -17,6 +17,7 @@
 | Botany Pots | <a href=https://www.curseforge.com/minecraft/mc-mods/botany-pots>here</a> |
 | Botany Pots Tiers | <a href=https://www.curseforge.com/minecraft/mc-mods/botany-pots-tiers>here</a> |
 | Cable Tiers | <a href=https://www.curseforge.com/minecraft/mc-mods/cable-tiers>here</a> |
+| Chalk | <a href=https://www.curseforge.com/minecraft/mc-mods/chalk>here</a> |
 | Charm | <a href=https://www.curseforge.com/minecraft/mc-mods/charm>here</a> |
 | Cloth Config API | <a href=https://www.curseforge.com/minecraft/mc-mods/cloth-config>here</a> |
 | Compact Machines | <a href=https://www.curseforge.com/minecraft/mc-mods/compact-machines>here</a> |
@@ -29,6 +30,7 @@
 | Cyclops Core | <a href=https://www.curseforge.com/minecraft/mc-mods/cyclops-core>here</a> |
 | Deep Resonance | <a href=https://www.curseforge.com/minecraft/mc-mods/deep-resonance>here</a> |
 | DimStorage | <a href=https://www.curseforge.com/minecraft/mc-mods/dimstorage>here</a> |
+| Dragon Survival | <a href=https://www.curseforge.com/minecraft/mc-mods/dragons-survival>here</a> |
 | Engineer's Decor | <a href=https://www.curseforge.com/minecraft/mc-mods/engineers-decor>here</a> |
 | Elemental Craft | <a href=https://www.curseforge.com/minecraft/mc-mods/elemental-craft>here</a> |
 | EvilCraft | <a href=https://www.curseforge.com/minecraft/mc-mods/evilcraft>here</a> |
@@ -104,6 +106,7 @@
 | Solar Flux Reborn | <a href=https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn>here</a> |
 | Shrink | <a href=https://www.curseforge.com/minecraft/mc-mods/shrink_>here</a> |
 | Supplementaries | <a href=https://www.curseforge.com/minecraft/mc-mods/supplementaries>here</a> |
+| TinyInv | <a href=https://www.curseforge.com/minecraft/mc-mods/tinyinv>here</a> |
 | TerraFirmaCraft | <a href=https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft>here</a> |
 | Thermal Series | <a href=https://www.curseforge.com/minecraft/mc-mods/thermal-foundation>here</a> |
 | Trash Cans | <a href=https://www.curseforge.com/minecraft/mc-mods/trash-cans>here</a> |
