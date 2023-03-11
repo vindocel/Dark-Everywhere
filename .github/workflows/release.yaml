@@ -47,6 +47,8 @@ jobs:
     steps:
       - name: checking branch 1.19.3 🔍️
         uses: actions/checkout@v3
+        with:
+          ref: '1.19.3'
 
       - name: Redeem the sent Tag 🏷️
         run: |
