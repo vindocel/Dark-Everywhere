@@ -1,0 +1,147 @@
+name: up texture pack 📤
+on:
+  push:
+    tags:
+    - 'v*.*.*'
+
+jobs:
+  job1:
+    name: Texture Pack 1.19.4 🎨
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: checking branch 1.19.4 🔍️
+        uses: actions/checkout@v3
+
+      - name: Redeem the sent Tag 🏷️
+        run: |
+          TAG=$(git describe --tags --abbrev=0)
+          TAG="${TAG#v}"
+          echo "LATEST_TAG=$TAG" >> $GITHUB_ENV
+
+      - name: Compressing texture from version 1.19.4 📦️
+        uses: thedoctor0/zip-release@0.7.1
+        with:
+          type: 'zip'
+          filename: 'Dark_Everywhere_1.19.4.zip'
+          exclusions: '*.git* /*node_modules/* .editorconfig *.md pack_hd.png'
+
+      - name: Uploading the Texture 1.19.4 🗃️
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          generateReleaseNotes: true
+          draft: false
+          tag: "v${{ env.LATEST_TAG }}"
+          name: "Dark Everywhere ${{ env.LATEST_TAG }}🌙"
+          artifacts: "*.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+  job2:
+    needs: job1
+    name: Texture Pack 1.19.3 🎨
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: checking branch 1.19.3 🔍️
+        uses: actions/checkout@v3
+        with:
+          ref: '1.19.3'
+
+      - name: Redeem the sent Tag 🏷️
+        run: |
+          TAG="${GITHUB_REF#refs/tags/}"
+          TAG="${TAG#v}"
+          echo "LATEST_TAG=$TAG" >> $GITHUB_ENV
+
+      - name: Compressing texture from version 1.19.3 📦️
+        uses: thedoctor0/zip-release@0.7.1
+        with:
+          type: 'zip'
+          filename: 'Dark_Everywhere_1.19.3.zip'
+          exclusions: '*.git* /*node_modules/* .editorconfig *.md pack_hd.png'
+
+      - name: Uploading the Texture 1.19.3 🗃️
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          generateReleaseNotes: true
+          draft: false
+          tag: "v${{ env.LATEST_TAG }}"
+          name: "Dark Everywhere ${{ env.LATEST_TAG }}🌙"
+          artifacts: "*.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+  job3:
+    needs: job2
+    name: Texture Pack 1.19 🎨
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: checking branch 1.19 🔍️
+        uses: actions/checkout@v3
+        with:
+          ref: '1.19'
+
+      - name: Redeem the sent Tag 🏷️
+        run: |
+          TAG="${GITHUB_REF#refs/tags/}"
+          TAG="${TAG#v}"
+          echo "LATEST_TAG=$TAG" >> $GITHUB_ENV
+
+      - name: Compressing texture from version 1.19 📦️
+        uses: thedoctor0/zip-release@0.7.1
+        with:
+          type: 'zip'
+          filename: 'Dark_Everywhere_1.19.zip'
+          exclusions: '*.git* /*node_modules/* .editorconfig *.md pack_hd.png'
+
+      - name: Uploading the Texture 1.19 🗃️
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          generateReleaseNotes: true
+          draft: false
+          tag: "v${{ env.LATEST_TAG }}"
+          name: "Dark Everywhere ${{ env.LATEST_TAG }}🌙"
+          artifacts: "*.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+  job4:
+    needs: job3
+    name: Texture Pack 1.18 🎨
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: checking branch 1.18 🔍️
+        uses: actions/checkout@v3
+        with:
+          ref: '1.18'
+
+      - name: Redeem the sent Tag 🏷️
+        run: |
+          TAG="${GITHUB_REF#refs/tags/}"
+          TAG="${TAG#v}"
+          echo "LATEST_TAG=$TAG" >> $GITHUB_ENV
+          
+      - name: Compressing texture from version 1.18 📦️
+        uses: thedoctor0/zip-release@0.7.1
+        with:
+          type: 'zip'
+          filename: 'Dark_Everywhere_1.18.zip'
+          exclusions: '*.git* /*node_modules/* .editorconfig *.md pack_hd.png'
+
+      - name: Uploading the Texture 1.18 🗃️
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          generateReleaseNotes: true
+          draft: false
+          tag: "v${{ env.LATEST_TAG }}"
+          name: "Dark Everywhere ${{ env.LATEST_TAG }}🌙"
+          artifacts: "*.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
