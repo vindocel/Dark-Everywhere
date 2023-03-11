@@ -1,4 +1,4 @@
-name: up texture pack 📤
+name: texture pack 📤
 on:
   push:
     tags:
