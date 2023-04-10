@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3>Dark Mode Texture Pack for Minecraft: Java Edition and Mods</h3>
-  <h5><i>This Resource Pack is a simple dark mode / dark theme for the Minecraft and Mod GUI.</i></h5>
+  <h5><i>Do you like playing Minecraft in the dark? Do you want to have a more elegant and comfortable interface for your eyes? Then you need to check out Dark-Everywhere, a texture pack that turns the Minecraft and Mods interface into a dark mode / dark theme. It is made with modified textures from the game itself and supports hundreds of mods. It is perfect for those who want to have a more immersive and enjoyable experience in the game. It also uses a GLSL-style shading system to color the texts. If you want to request support for a specific mod, you can create an issue on the project’s github.</i></h5>
   
 ---
 
