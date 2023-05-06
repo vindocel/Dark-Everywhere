@@ -8,6 +8,7 @@
 | Applied Energistics 2 | <a href=https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2>here</a> |
 | Applied Energistics 2 Wireless Terminals | <a href=https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals>here</a> |
 | Apotheosis | <a href=https://www.curseforge.com/minecraft/mc-mods/apotheosis>here</a> |
+| Avaritia 1.1x | <a href=https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10>here</a> |
 | Baubley Heart Canisters | <a href=https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters>here</a> |
 | Beyond Earth | <a href=https://www.curseforge.com/minecraft/mc-mods/beyond-earth>here</a> |
 | Better Advancements | <a href=https://www.curseforge.com/minecraft/mc-mods/better-advancements>here</a> |
@@ -26,6 +27,7 @@
 | Corpse | <a href=https://www.curseforge.com/minecraft/mc-mods/corpse>here</a> |
 | Create | <a href=https://www.curseforge.com/minecraft/mc-mods/create>here</a> |
 | Curios API | <a href=https://www.curseforge.com/minecraft/mc-mods/curios>here</a> |
+| Custom Machinery | <a href=https://www.curseforge.com/minecraft/mc-mods/custom-machinery>here</a> |
 | Cyclic | <a href=https://www.curseforge.com/minecraft/mc-mods/cyclic>here</a> |
 | Cyclops Core | <a href=https://www.curseforge.com/minecraft/mc-mods/cyclops-core>here</a> |
 | Deep Resonance | <a href=https://www.curseforge.com/minecraft/mc-mods/deep-resonance>here</a> |
@@ -36,6 +38,7 @@
 | EvilCraft | <a href=https://www.curseforge.com/minecraft/mc-mods/evilcraft>here</a> |
 | Ex Machinis | <a href=https://www.curseforge.com/minecraft/mc-mods/ex-machinis>here</a> |
 | Ex Nihilo: Sequentia | <a href=https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-sequentia>here</a> |
+| Extended Crafting | <a href=https://www.curseforge.com/minecraft/mc-mods/extended-crafting>here</a> |
 | Extreme Sound Muffler | <a href=https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler>here</a> |
 | Farmer's Delight | <a href=https://www.curseforge.com/minecraft/mc-mods/farmers-delight>here</a> |
 | Farming for Blockheads | <a href=https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads>here</a> |
@@ -69,6 +72,7 @@
 | Mekanism | <a href=https://www.curseforge.com/minecraft/mc-mods/mekanism>here</a> |
 | ME Requester | <a href=https://www.curseforge.com/minecraft/mc-mods/merequester>here</a> |
 | MineColonies | <a href=https://www.curseforge.com/minecraft/mc-mods/minecolonies>here</a> |
+| Mini Utilities | <a href=https://www.curseforge.com/minecraft/mc-mods/miniutilities>here</a> |
 | Mob Grinding Utils | <a href=https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils>here</a> |
 | Mo' Shiz Mod | <a href=https://www.curseforge.com/minecraft/mc-mods/mo-shiz-mod>here</a> |
 | MrCrayfish's Furniture Mod | <a href=https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod>here</a> |
@@ -100,6 +104,7 @@
 | RFTools Utility | <a href=https://www.curseforge.com/minecraft/mc-mods/rftools-utility>here</a> |
 | Security Craft | <a href=https://www.curseforge.com/minecraft/mc-mods/security-craft>here</a> |
 | Simple Magnets | <a href=https://www.curseforge.com/minecraft/mc-mods/simple-magnets>here</a> |
+| Simply Jetpacks 2 | <a href=https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2>here</a> |
 | Simple Storage Network | <a href=https://www.curseforge.com/minecraft/mc-mods/simple-storage-network>here</a> |
 | Summoning Rituals | <a href=https://www.curseforge.com/minecraft/mc-mods/summoningrituals>here</a> |
 | Sophisticated Backpacks | <a href=https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks>here</a> |
@@ -116,4 +121,6 @@
 | Tinkers Construct | <a href=https://www.curseforge.com/minecraft/mc-mods/tinkers-construct>here</a> |
 | The Twilight Forest | <a href=https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest>here</a> |
 | Tom's Simple Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/toms-storage>here</a> |
+| Water Strainer | <a href=https://www.curseforge.com/minecraft/mc-mods/water-strainer>here</a> |
+| Woodworks | <a href=https://www.curseforge.com/minecraft/mc-mods/woodworks>here</a> |
 | XNet | <a href=https://www.curseforge.com/minecraft/mc-mods/xnet>here</a> |
