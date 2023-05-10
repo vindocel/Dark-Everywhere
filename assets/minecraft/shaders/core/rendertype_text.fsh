@@ -6,6 +6,7 @@ uniform vec4 ColorModulator;
 in vec3 vertexPosition;
 in vec4 vertexColor;
 in vec2 texCoord0;
+in float vertexDistance;
 
 out vec4 fragColor;
 
@@ -19,16 +20,15 @@ void main() {
     if (color.a < 0.1) {
         discard;
     }
-	
-    float distance = distance(vertexPosition, vec3(800.0));
-    if (distance > 900.0
-        && color.r > DGColor && color.r < DG2Color
-        && color.g > DGColor && color.g < DG2Color
-        && color.b > DGColor && color.b < DG2Color){
-        fragColor = textColor + shadowColor * 0.1;
-    }else{
-        fragColor = color;
+    
+    if (vertexDistance > 800.0) {
+        if (color.r > DGColor && color.r < DG2Color
+            && color.g > DGColor && color.g < DG2Color
+            && color.b > DGColor && color.b < DG2Color) {
+            fragColor = textColor + shadowColor * 0.1;
+        } else {
+            fragColor = color;
+        }
     }
 }
-
 //by Vindocel
