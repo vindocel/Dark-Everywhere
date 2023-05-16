@@ -94,6 +94,7 @@
 | Reborn Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/rebornstorage>here</a> |
 | Refined Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/refined-storage>here</a> |
 | Refined Storage Addons | <a href=https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons>here</a> |
+| Relics | <a href=https://www.curseforge.com/minecraft/mc-mods/relics-mod>here</a> |
 | Reliquary Reincarnations | <a href=https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3>here</a> |
 | Roughly Enough Items | <a href=https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items>here</a> |
 | RFTools Base | <a href=https://www.curseforge.com/minecraft/mc-mods/rftools-base>here</a> |
@@ -108,6 +109,7 @@
 | Simple Storage Network | <a href=https://www.curseforge.com/minecraft/mc-mods/simple-storage-network>here</a> |
 | Summoning Rituals | <a href=https://www.curseforge.com/minecraft/mc-mods/summoningrituals>here</a> |
 | Sophisticated Backpacks | <a href=https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks>here</a> |
+| Spirit | <a href=https://www.curseforge.com/minecraft/mc-mods/spirit>here</a> |
 | Solar Flux Reborn | <a href=https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn>here</a> |
 | Shrink | <a href=https://www.curseforge.com/minecraft/mc-mods/shrink_>here</a> |
 | Supplementaries | <a href=https://www.curseforge.com/minecraft/mc-mods/supplementaries>here</a> |
