@@ -123,6 +123,7 @@
 | Tinkers Construct | <a href=https://www.curseforge.com/minecraft/mc-mods/tinkers-construct>here</a> |
 | The Twilight Forest | <a href=https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest>here</a> |
 | Tom's Simple Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/toms-storage>here</a> |
+| Vitalize | <a href=https://www.curseforge.com/minecraft/mc-mods/vitalize>here</a> |
 | Water Strainer | <a href=https://www.curseforge.com/minecraft/mc-mods/water-strainer>here</a> |
 | Woodworks | <a href=https://www.curseforge.com/minecraft/mc-mods/woodworks>here</a> |
 | XNet | <a href=https://www.curseforge.com/minecraft/mc-mods/xnet>here</a> |
