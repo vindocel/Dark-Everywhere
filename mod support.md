@@ -91,6 +91,7 @@
 | Project MMO | <a href=https://www.curseforge.com/minecraft/mc-mods/project-mmo>here</a> |
 | Quark | <a href=https://www.curseforge.com/minecraft/mc-mods/quark>here</a> |
 | Re-chiseled | <a href=https://www.curseforge.com/minecraft/mc-mods/rechiseled>here</a> |
+| Reaper | <a href=https://www.curseforge.com/minecraft/mc-mods/reaper>here</a> |
 | Reborn Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/rebornstorage>here</a> |
 | Refined Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/refined-storage>here</a> |
 | Refined Storage Addons | <a href=https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons>here</a> |
