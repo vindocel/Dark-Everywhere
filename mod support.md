@@ -32,6 +32,7 @@
 | Cyclops Core | <a href=https://www.curseforge.com/minecraft/mc-mods/cyclops-core>here</a> |
 | Deep Resonance | <a href=https://www.curseforge.com/minecraft/mc-mods/deep-resonance>here</a> |
 | DimStorage | <a href=https://www.curseforge.com/minecraft/mc-mods/dimstorage>here</a> |
+| Domum Ornamentum | <a href=https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum>here</a> |
 | Dragon Survival | <a href=https://www.curseforge.com/minecraft/mc-mods/dragons-survival>here</a> |
 | Engineer's Decor | <a href=https://www.curseforge.com/minecraft/mc-mods/engineers-decor>here</a> |
 | Elemental Craft | <a href=https://www.curseforge.com/minecraft/mc-mods/elemental-craft>here</a> |
@@ -113,6 +114,7 @@
 | Spirit | <a href=https://www.curseforge.com/minecraft/mc-mods/spirit>here</a> |
 | Solar Flux Reborn | <a href=https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn>here</a> |
 | Shrink | <a href=https://www.curseforge.com/minecraft/mc-mods/shrink_>here</a> |
+| Silent Gear | <a href=https://www.curseforge.com/minecraft/mc-mods/silent-gear>here</a> |
 | Supplementaries | <a href=https://www.curseforge.com/minecraft/mc-mods/supplementaries>here</a> |
 | TinyInv | <a href=https://www.curseforge.com/minecraft/mc-mods/tinyinv>here</a> |
 | TerraFirmaCraft | <a href=https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft>here</a> |
