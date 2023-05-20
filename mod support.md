@@ -25,6 +25,7 @@
 | Cooking for Blockheads | <a href=https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads>here</a> |
 | Cosmetic Armor Reworked | <a href=https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked>here</a> |
 | Corpse | <a href=https://www.curseforge.com/minecraft/mc-mods/corpse>here</a> |
+| Crafting on a stick | <a href=https://www.curseforge.com/minecraft/mc-mods/crafting-on-a-stick>here</a> |
 | Create | <a href=https://www.curseforge.com/minecraft/mc-mods/create>here</a> |
 | Curios API | <a href=https://www.curseforge.com/minecraft/mc-mods/curios>here</a> |
 | Custom Machinery | <a href=https://www.curseforge.com/minecraft/mc-mods/custom-machinery>here</a> |
