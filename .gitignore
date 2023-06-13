@@ -2,3 +2,4 @@
 *.psd
 ._*
 .DS_Store*
+.mcassetsroot

@@ -25,6 +25,7 @@
 | Cooking for Blockheads | <a href=https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads>here</a> |
 | Cosmetic Armor Reworked | <a href=https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked>here</a> |
 | Corpse | <a href=https://www.curseforge.com/minecraft/mc-mods/corpse>here</a> |
+| Crafting on a stick | <a href=https://www.curseforge.com/minecraft/mc-mods/crafting-on-a-stick>here</a> |
 | Create | <a href=https://www.curseforge.com/minecraft/mc-mods/create>here</a> |
 | Curios API | <a href=https://www.curseforge.com/minecraft/mc-mods/curios>here</a> |
 | Custom Machinery | <a href=https://www.curseforge.com/minecraft/mc-mods/custom-machinery>here</a> |
@@ -32,6 +33,7 @@
 | Cyclops Core | <a href=https://www.curseforge.com/minecraft/mc-mods/cyclops-core>here</a> |
 | Deep Resonance | <a href=https://www.curseforge.com/minecraft/mc-mods/deep-resonance>here</a> |
 | DimStorage | <a href=https://www.curseforge.com/minecraft/mc-mods/dimstorage>here</a> |
+| Domum Ornamentum | <a href=https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum>here</a> |
 | Dragon Survival | <a href=https://www.curseforge.com/minecraft/mc-mods/dragons-survival>here</a> |
 | Engineer's Decor | <a href=https://www.curseforge.com/minecraft/mc-mods/engineers-decor>here</a> |
 | Elemental Craft | <a href=https://www.curseforge.com/minecraft/mc-mods/elemental-craft>here</a> |
@@ -91,9 +93,11 @@
 | Project MMO | <a href=https://www.curseforge.com/minecraft/mc-mods/project-mmo>here</a> |
 | Quark | <a href=https://www.curseforge.com/minecraft/mc-mods/quark>here</a> |
 | Re-chiseled | <a href=https://www.curseforge.com/minecraft/mc-mods/rechiseled>here</a> |
+| Reaper | <a href=https://www.curseforge.com/minecraft/mc-mods/reaper>here</a> |
 | Reborn Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/rebornstorage>here</a> |
 | Refined Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/refined-storage>here</a> |
 | Refined Storage Addons | <a href=https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons>here</a> |
+| Relics | <a href=https://www.curseforge.com/minecraft/mc-mods/relics-mod>here</a> |
 | Reliquary Reincarnations | <a href=https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3>here</a> |
 | Roughly Enough Items | <a href=https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items>here</a> |
 | RFTools Base | <a href=https://www.curseforge.com/minecraft/mc-mods/rftools-base>here</a> |
@@ -108,8 +112,10 @@
 | Simple Storage Network | <a href=https://www.curseforge.com/minecraft/mc-mods/simple-storage-network>here</a> |
 | Summoning Rituals | <a href=https://www.curseforge.com/minecraft/mc-mods/summoningrituals>here</a> |
 | Sophisticated Backpacks | <a href=https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks>here</a> |
+| Spirit | <a href=https://www.curseforge.com/minecraft/mc-mods/spirit>here</a> |
 | Solar Flux Reborn | <a href=https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn>here</a> |
 | Shrink | <a href=https://www.curseforge.com/minecraft/mc-mods/shrink_>here</a> |
+| Silent Gear | <a href=https://www.curseforge.com/minecraft/mc-mods/silent-gear>here</a> |
 | Supplementaries | <a href=https://www.curseforge.com/minecraft/mc-mods/supplementaries>here</a> |
 | TinyInv | <a href=https://www.curseforge.com/minecraft/mc-mods/tinyinv>here</a> |
 | TerraFirmaCraft | <a href=https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft>here</a> |
@@ -121,6 +127,7 @@
 | Tinkers Construct | <a href=https://www.curseforge.com/minecraft/mc-mods/tinkers-construct>here</a> |
 | The Twilight Forest | <a href=https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest>here</a> |
 | Tom's Simple Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/toms-storage>here</a> |
+| Vitalize | <a href=https://www.curseforge.com/minecraft/mc-mods/vitalize>here</a> |
 | Water Strainer | <a href=https://www.curseforge.com/minecraft/mc-mods/water-strainer>here</a> |
 | Woodworks | <a href=https://www.curseforge.com/minecraft/mc-mods/woodworks>here</a> |
 | XNet | <a href=https://www.curseforge.com/minecraft/mc-mods/xnet>here</a> |
