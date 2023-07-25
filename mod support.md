@@ -37,6 +37,7 @@
 | Dragon Survival | <a href=https://www.curseforge.com/minecraft/mc-mods/dragons-survival>here</a> |
 | Engineer's Decor | <a href=https://www.curseforge.com/minecraft/mc-mods/engineers-decor>here</a> |
 | Elemental Craft | <a href=https://www.curseforge.com/minecraft/mc-mods/elemental-craft>here</a> |
+| Ender IO | <a href=https://legacy.curseforge.com/minecraft/mc-mods/ender-io>here</a> |
 | EvilCraft | <a href=https://www.curseforge.com/minecraft/mc-mods/evilcraft>here</a> |
 | Ex Machinis | <a href=https://www.curseforge.com/minecraft/mc-mods/ex-machinis>here</a> |
 | Ex Nihilo: Sequentia | <a href=https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-sequentia>here</a> |
