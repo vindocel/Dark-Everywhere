@@ -41,6 +41,7 @@
 | EvilCraft | <a href=https://www.curseforge.com/minecraft/mc-mods/evilcraft>here</a> |
 | Ex Machinis | <a href=https://www.curseforge.com/minecraft/mc-mods/ex-machinis>here</a> |
 | Ex Nihilo: Sequentia | <a href=https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-sequentia>here</a> |
+| Expanded Combat | <a href=https://www.curseforge.com/minecraft/mc-mods/expanded-combat>here</a> |
 | Extended Crafting | <a href=https://www.curseforge.com/minecraft/mc-mods/extended-crafting>here</a> |
 | Extreme Sound Muffler | <a href=https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler>here</a> |
 | Farmer's Delight | <a href=https://www.curseforge.com/minecraft/mc-mods/farmers-delight>here</a> |
