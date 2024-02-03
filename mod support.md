@@ -1,135 +1,137 @@
-| Supported Mods | Link |
-| --- | --- |
-| Ad Astra! | <a href=https://www.curseforge.com/minecraft/mc-mods/ad-astra>here</a> |
-| Additional Enchanted Miner | <a href=https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner>here</a> |
-| Advanced Generators | <a href=https://www.curseforge.com/minecraft/mc-mods/advanced-generators>here</a> |
-| AE2-Additions | <a href=https://www.curseforge.com/minecraft/mc-mods/ae2-additions>here</a> |
-| Alchemistry | <a href=https://www.curseforge.com/minecraft/mc-mods/alchemistry>here</a> |
-| Applied Energistics 2 | <a href=https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2>here</a> |
-| Applied Energistics 2 Wireless Terminals | <a href=https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals>here</a> |
-| Apotheosis | <a href=https://www.curseforge.com/minecraft/mc-mods/apotheosis>here</a> |
-| Avaritia 1.1x | <a href=https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10>here</a> |
-| Baubley Heart Canisters | <a href=https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters>here</a> |
-| Beyond Earth | <a href=https://www.curseforge.com/minecraft/mc-mods/beyond-earth>here</a> |
-| Better Advancements | <a href=https://www.curseforge.com/minecraft/mc-mods/better-advancements>here</a> |
-| Better Furnaces Reforged | <a href=https://www.curseforge.com/minecraft/mc-mods/better-furnaces-reforged>here</a> |
-| Blue Skies | <a href=https://www.curseforge.com/minecraft/mc-mods/blue-skies>here</a> |
-| Builder's Delight | <a href=https://www.curseforge.com/minecraft/mc-mods/builders-delight-forge>here</a> |
-| Botany Pots | <a href=https://www.curseforge.com/minecraft/mc-mods/botany-pots>here</a> |
-| Botany Pots Tiers | <a href=https://www.curseforge.com/minecraft/mc-mods/botany-pots-tiers>here</a> |
-| Cable Tiers | <a href=https://www.curseforge.com/minecraft/mc-mods/cable-tiers>here</a> |
-| Chalk | <a href=https://www.curseforge.com/minecraft/mc-mods/chalk>here</a> |
-| Charm | <a href=https://www.curseforge.com/minecraft/mc-mods/charm>here</a> |
-| Cloth Config API | <a href=https://www.curseforge.com/minecraft/mc-mods/cloth-config>here</a> |
-| Compact Machines | <a href=https://www.curseforge.com/minecraft/mc-mods/compact-machines>here</a> |
-| Cooking for Blockheads | <a href=https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads>here</a> |
-| Cosmetic Armor Reworked | <a href=https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked>here</a> |
-| Corpse | <a href=https://www.curseforge.com/minecraft/mc-mods/corpse>here</a> |
-| Crafting on a stick | <a href=https://www.curseforge.com/minecraft/mc-mods/crafting-on-a-stick>here</a> |
-| Create | <a href=https://www.curseforge.com/minecraft/mc-mods/create>here</a> |
-| Curios API | <a href=https://www.curseforge.com/minecraft/mc-mods/curios>here</a> |
-| Custom Machinery | <a href=https://www.curseforge.com/minecraft/mc-mods/custom-machinery>here</a> |
-| Cyclic | <a href=https://www.curseforge.com/minecraft/mc-mods/cyclic>here</a> |
-| Cyclops Core | <a href=https://www.curseforge.com/minecraft/mc-mods/cyclops-core>here</a> |
-| Deep Resonance | <a href=https://www.curseforge.com/minecraft/mc-mods/deep-resonance>here</a> |
-| DimStorage | <a href=https://www.curseforge.com/minecraft/mc-mods/dimstorage>here</a> |
-| Domum Ornamentum | <a href=https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum>here</a> |
-| Dragon Survival | <a href=https://www.curseforge.com/minecraft/mc-mods/dragons-survival>here</a> |
-| Engineer's Decor | <a href=https://www.curseforge.com/minecraft/mc-mods/engineers-decor>here</a> |
-| Elemental Craft | <a href=https://www.curseforge.com/minecraft/mc-mods/elemental-craft>here</a> |
-| Ender IO | <a href=https://legacy.curseforge.com/minecraft/mc-mods/ender-io>here</a> |
-| EvilCraft | <a href=https://www.curseforge.com/minecraft/mc-mods/evilcraft>here</a> |
-| Ex Machinis | <a href=https://www.curseforge.com/minecraft/mc-mods/ex-machinis>here</a> |
-| Ex Nihilo: Sequentia | <a href=https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-sequentia>here</a> |
-| Expanded Combat | <a href=https://www.curseforge.com/minecraft/mc-mods/expanded-combat>here</a> |
-| Extended Crafting | <a href=https://www.curseforge.com/minecraft/mc-mods/extended-crafting>here</a> |
-| Extreme Sound Muffler | <a href=https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler>here</a> |
-| Farmer's Delight | <a href=https://www.curseforge.com/minecraft/mc-mods/farmers-delight>here</a> |
-| Farming for Blockheads | <a href=https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads>here</a> |
-| Farmer's Respite | <a href=https://www.curseforge.com/minecraft/mc-mods/farmers-respite>here</a> |
-| Fantasy's Furniture | <a href=https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture>here</a> |
-| Flux Networks | <a href=https://www.curseforge.com/minecraft/mc-mods/flux-networks>here</a> |
-| FTB Industrial Contraptions | <a href=https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions-forge>here</a> |
-| Forbidden and Arcanus | <a href=https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus>here</a> |
-| Goblin Traders | <a href=https://www.curseforge.com/minecraft/mc-mods/goblin-traders>here</a> |
-| Hostile Neural Networks | <a href=https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks>here</a> |
-| Immersive Engineering | <a href=https://www.curseforge.com/minecraft/mc-mods/immersive-engineering>here</a> |
-| Industrial Revolution | <a href=https://www.curseforge.com/minecraft/mc-mods/industrial-revolution>here</a> |
-| Inventory HUD+ | <a href=https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge>here</a> |
-| Inventory Profiles Next | <a href=https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next>here</a> |
-| Integrated Crafting | <a href=https://www.curseforge.com/minecraft/mc-mods/integrated-crafting>here</a> |
-| Integrated Dynamics | <a href=https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics>here</a> |
-| Integrated NBT | <a href=https://www.curseforge.com/minecraft/mc-mods/integrated-nbt>here</a> |
-| Integrated Terminals | <a href=https://www.curseforge.com/minecraft/mc-mods/integrated-terminals>here</a> |
-| Integrated Tunnels | <a href=https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels>here</a> |
-| Iron Chests | <a href=https://www.curseforge.com/minecraft/mc-mods/iron-chests>here</a> |
-| Iron Furnaces | <a href=https://www.curseforge.com/minecraft/mc-mods/iron-furnaces>here</a> |
-| Industrial Foregoing | <a href=https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing>here</a> |
-| Item Collectors | <a href=https://www.curseforge.com/minecraft/mc-mods/item-collectors>here</a> |
-| Just Enough Items (JEI) | <a href=https://www.curseforge.com/minecraft/mc-mods/jei>here</a> |
-| Just Enough Resources (JER) | <a href=https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer>here</a> |
-| JobsAddon | <a href=https://www.curseforge.com/minecraft/mc-mods/jobsaddon>here</a> |
-| LaserIO | <a href=https://www.curseforge.com/minecraft/mc-mods/laserio>here</a> |
-| Lazier AE2 | <a href=https://www.curseforge.com/minecraft/mc-mods/lazierae2>here</a> |
-| LevelZ | <a href=https://www.curseforge.com/minecraft/mc-mods/levelz>here</a> |
-| LibGui Reforged | <a href=https://www.curseforge.com/minecraft/mc-mods/libgui-reforged>here</a> |
-| Mekanism | <a href=https://www.curseforge.com/minecraft/mc-mods/mekanism>here</a> |
-| ME Requester | <a href=https://www.curseforge.com/minecraft/mc-mods/merequester>here</a> |
-| MineColonies | <a href=https://www.curseforge.com/minecraft/mc-mods/minecolonies>here</a> |
-| Mini Utilities | <a href=https://www.curseforge.com/minecraft/mc-mods/miniutilities>here</a> |
-| Mob Grinding Utils | <a href=https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils>here</a> |
-| Mo' Shiz Mod | <a href=https://www.curseforge.com/minecraft/mc-mods/mo-shiz-mod>here</a> |
-| MrCrayfish's Furniture Mod | <a href=https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod>here</a> |
-| Mystical Agriculture | <a href=https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture>here</a> |
-| Nature's Aura | <a href=https://www.curseforge.com/minecraft/mc-mods/natures-aura>here</a> |
-| Nether's Delight | <a href=https://www.curseforge.com/minecraft/mc-mods/nethers-delight>here</a> |
-| Occultism | <a href=https://www.curseforge.com/minecraft/mc-mods/occultism>here</a> |
-| Pipez | <a href=https://www.curseforge.com/minecraft/mc-mods/pipez>here</a> |
-| PneumaticCraft: Repressurized | <a href=https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized>here</a> |
-| Powah! (Rearchitected) | <a href=https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected>here</a> |
-| Polymorph | <a href=https://www.curseforge.com/minecraft/mc-mods/polymorph>here</a> |
-| Pretty Pipes | <a href=https://www.curseforge.com/minecraft/mc-mods/pretty-pipes>here</a> |
-| Productive Bees | <a href=https://www.curseforge.com/minecraft/mc-mods/productivebees>here</a> |
-| ProjectE | <a href=https://www.curseforge.com/minecraft/mc-mods/projecte>here</a> |
-| Project Expansion | <a href=https://www.curseforge.com/minecraft/mc-mods/project-expansion>here</a> |
-| Project MMO | <a href=https://www.curseforge.com/minecraft/mc-mods/project-mmo>here</a> |
-| Quark | <a href=https://www.curseforge.com/minecraft/mc-mods/quark>here</a> |
-| Re-chiseled | <a href=https://www.curseforge.com/minecraft/mc-mods/rechiseled>here</a> |
-| Reaper | <a href=https://www.curseforge.com/minecraft/mc-mods/reaper>here</a> |
-| Reborn Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/rebornstorage>here</a> |
-| Refined Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/refined-storage>here</a> |
-| Refined Storage Addons | <a href=https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons>here</a> |
-| Relics | <a href=https://www.curseforge.com/minecraft/mc-mods/relics-mod>here</a> |
-| Reliquary Reincarnations | <a href=https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3>here</a> |
-| Roughly Enough Items | <a href=https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items>here</a> |
-| RFTools Base | <a href=https://www.curseforge.com/minecraft/mc-mods/rftools-base>here</a> |
-| RFTools Builder | <a href=https://www.curseforge.com/minecraft/mc-mods/rftools-builder>here</a> |
-| RFTools Control | <a href=https://www.curseforge.com/minecraft/mc-mods/rftools-control>here</a> |
-| RFTools Power | <a href=https://www.curseforge.com/minecraft/mc-mods/rftools-power>here</a> |
-| RFTools Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/rftools-storage>here</a> |
-| RFTools Utility | <a href=https://www.curseforge.com/minecraft/mc-mods/rftools-utility>here</a> |
-| Security Craft | <a href=https://www.curseforge.com/minecraft/mc-mods/security-craft>here</a> |
-| Simple Magnets | <a href=https://www.curseforge.com/minecraft/mc-mods/simple-magnets>here</a> |
-| Simply Jetpacks 2 | <a href=https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2>here</a> |
-| Simple Storage Network | <a href=https://www.curseforge.com/minecraft/mc-mods/simple-storage-network>here</a> |
-| Summoning Rituals | <a href=https://www.curseforge.com/minecraft/mc-mods/summoningrituals>here</a> |
-| Sophisticated Backpacks | <a href=https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks>here</a> |
-| Spirit | <a href=https://www.curseforge.com/minecraft/mc-mods/spirit>here</a> |
-| Solar Flux Reborn | <a href=https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn>here</a> |
-| Shrink | <a href=https://www.curseforge.com/minecraft/mc-mods/shrink_>here</a> |
-| Silent Gear | <a href=https://www.curseforge.com/minecraft/mc-mods/silent-gear>here</a> |
-| Supplementaries | <a href=https://www.curseforge.com/minecraft/mc-mods/supplementaries>here</a> |
-| TinyInv | <a href=https://www.curseforge.com/minecraft/mc-mods/tinyinv>here</a> |
-| TerraFirmaCraft | <a href=https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft>here</a> |
-| Thermal Series | <a href=https://www.curseforge.com/minecraft/mc-mods/thermal-foundation>here</a> |
-| Trash Cans | <a href=https://www.curseforge.com/minecraft/mc-mods/trash-cans>here</a> |
-| TrashSlot | <a href=https://www.curseforge.com/minecraft/mc-mods/trashslot>here</a> |
-| Traveler's Backpack | <a href=https://www.curseforge.com/minecraft/mc-mods/travelers-backpack>here</a> |
-| Trinkets | <a href=https://www.curseforge.com/minecraft/mc-mods/trinkets>here</a> |
-| Tinkers Construct | <a href=https://www.curseforge.com/minecraft/mc-mods/tinkers-construct>here</a> |
-| The Twilight Forest | <a href=https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest>here</a> |
-| Tom's Simple Storage | <a href=https://www.curseforge.com/minecraft/mc-mods/toms-storage>here</a> |
-| Vitalize | <a href=https://www.curseforge.com/minecraft/mc-mods/vitalize>here</a> |
-| Water Strainer | <a href=https://www.curseforge.com/minecraft/mc-mods/water-strainer>here</a> |
-| Woodworks | <a href=https://www.curseforge.com/minecraft/mc-mods/woodworks>here</a> |
-| XNet | <a href=https://www.curseforge.com/minecraft/mc-mods/xnet>here</a> |
+| Supported Mods                       | Link                                                                      |
+| ---                                  | ---                                                                       |
+| Ad Astra!                            | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ad-astra)        |
+| Additional Enchanted Miner           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner) |
+| Advanced Generators                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-generators) |
+| AE2-Additions                        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ae2-additions)   |
+| Alchemistry                          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/alchemistry)     |
+| Applied Energistics 2                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) |
+| Applied Energistics 2 Wireless Terminals | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals) |
+| Apotheosis                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/apotheosis)     |
+| Avaritia 1.1x                        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10)   |
+| Baubley Heart Canisters              | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters) |
+| Beyond Earth                         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/beyond-earth)   |
+| Better Advancements                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-advancements) |
+| Better Furnaces Reforged              | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-furnaces-reforged) |
+| Blue Skies                            | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blue-skies)     |
+| Builder's Delight                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/builders-delight-forge) |
+| Botany Pots                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botany-pots)    |
+| Botany Pots Tiers                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botany-pots-tiers) |
+| Cable Tiers                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cable-tiers)   |
+| Chalk                                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chalk)         |
+| Charm                                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/charm)         |
+| Cloth Config API                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)  |
+| Compact Machines                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/compact-machines) |
+| Cooking for Blockheads                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads) |
+| Cosmetic Armor Reworked               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) |
+| Corpse                                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/corpse)        |
+| Crafting on a stick                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafting-on-a-stick) |
+| Create                                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create)        |
+| Curios API                            | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/curios)        |
+| Custom Machinery                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/custom-machinery) |
+| Cyclic                                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cyclic)        |
+| Cyclops Core                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cyclops-core)  |
+| Deep Resonance                         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/deep-resonance) |
+| DimStorage                             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dimstorage)    |
+| Domum Ornamentum                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum) |
+| Dragon Survival                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dragons-survival) |
+| EMI                                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/emi)              |
+| Engineer's Decor                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/engineers-decor) |
+| Elemental Craft                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/elemental-craft) |
+| Ender IO                              | [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/ender-io)     |
+| EvilCraft                             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/evilcraft)       |
+| Ex Machinis                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ex-machinis)     |
+| Ex Nihilo: Sequentia                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-sequentia) |
+| Expanded Combat                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/expanded-combat) |
+| ExtendedAE                            | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ex-pattern-provider) |
+| Extended Crafting                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extended-crafting) |
+| Extreme Sound Muffler                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler) |
+| Farmer's Delight                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) |
+| Farming for Blockheads                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads) |
+| Farmer's Respite                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-respite) |
+| Fantasy's Furniture                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture) |
+| Flux Networks                         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/flux-networks)  |
+| FTB Industrial Contraptions           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions-forge) |
+| Forbidden and Arcanus                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) |
+| Goblin Traders                        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) |
+| Hostile Neural Networks               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks) |
+| Immersive Engineering                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) |
+| Industrial Revolution                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution) |
+| Inventory HUD+                        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) |
+| Inventory Profiles Next               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) |
+| Integrated Crafting                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting) |
+| Integrated Dynamics                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics) |
+| Integrated NBT                         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-nbt) |
+| Integrated Terminals                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals) |
+| Integrated Tunnels                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels) |
+| Iron Chests                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-chests)   |
+| Iron Furnaces                         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces) |
+| Industrial Foregoing                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing) |
+| Item Collectors                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-collectors) |
+| Just Enough Items (JEI)               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)           |
+| Just Enough Resources (JER)           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) |
+| JobsAddon                             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jobsaddon)     |
+| LaserIO                               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/laserio)       |
+| Lazier AE2                            | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazierae2)     |
+| LevelZ                              | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/levelz) |
+| LibGui Reforged                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/libgui-reforged) |
+| Mekanism                            | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mekanism) |
+| ME Requester                        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/merequester) |
+| MineColonies                        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies) |
+| Mini Utilities                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/miniutilities) |
+| Mob Grinding Utils                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils) |
+| Mo' Shiz Mod                         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mo-shiz-mod) |
+| MrCrayfish's Furniture Mod           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) |
+| Mystical Agriculture                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture) |
+| Nature's Aura                        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/natures-aura) |
+| Nether's Delight                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nethers-delight) |
+| Occultism                            | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/occultism) |
+| Pipez                                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pipez) |
+| PneumaticCraft: Repressurized        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized) |
+| Powah! (Rearchitected)               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected) |
+| Polymorph                            | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/polymorph) |
+| Pretty Pipes                         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes) |
+| Productive Bees                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/productivebees) |
+| ProjectE                             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/projecte) |
+| Project Expansion                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/project-expansion) |
+| Project MMO                          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/project-mmo) |
+| Quark                                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quark) |
+| Re-chiseled                          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled) |
+| Reaper                               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/reaper) |
+| Reborn Storage                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rebornstorage) |
+| Refined Storage                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/refined-storage) |
+| Refined Storage Addons                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons) |
+| Relics                               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/relics-mod) |
+| Reliquary Reincarnations             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3) |
+| Roughly Enough Items                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) |
+| RFTools Base                         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-base) |
+| RFTools Builder                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-builder) |
+| RFTools Control                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-control) |
+| RFTools Power                        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-power) |
+| RFTools Storage                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-storage) |
+| RFTools Utility                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-utility) |
+| Security Craft                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/security-craft) |
+| Simple Magnets                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-magnets) |
+| Simply Jetpacks 2                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2) |
+| Simple Storage Network                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network) |
+| Summoning Rituals                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/summoningrituals) |
+| Sophisticated Backpacks               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) |
+| Spirit                               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spirit) |
+| Solar Flux Reborn                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn) |
+| Shrink                               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/shrink_) |
+| Silent Gear                          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/silent-gear) |
+| Supplementaries                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supplementaries) |
+| TinyInv                              | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tinyinv) |
+| TerraFirmaCraft                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) |
+| Thermal Series                        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation) |
+| Trash Cans                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trash-cans) |
+| TrashSlot                            | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trashslot) |
+| Traveler's Backpack                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack) |
+| Trinkets                             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trinkets) |
+| Tinkers Construct                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) |
+| The Twilight Forest                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) |
+| Tom's Simple Storage                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/toms-storage) |
+| Vitalize                             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/vitalize) |
+| Water Strainer                        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/water-strainer) |
+| Woodworks                             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/woodworks) |
+| XNet                                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xnet) |
