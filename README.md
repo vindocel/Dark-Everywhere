@@ -25,7 +25,7 @@
 
 ---
 
-[**📄 Mod Support**](https://github.com/vindocel/Dark-Everywhere/blob/1.19.4/mod%20support.md)
+[**📄 Mod Support**](https://github.com/vindocel/Dark-Everywhere/blob/1.20/mod%20support.md)
 
 </details>
 <h3 align="center">⬇️contribute to our project⬇️</h3>
